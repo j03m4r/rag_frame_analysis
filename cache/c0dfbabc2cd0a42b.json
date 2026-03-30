@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The Department of Homeland Security defended the action by calling protesters 'agitators' who blocked an Ice vehicle, impeding operations.",
+        "Some Catholics, notably JD Vance, support the immigration crackdown and have condemned US bishops for not backing the administration's enforcement actions.",
+        "Many were shocked by video that surfaced in early October that showed a Presbyterian pastor hit by a pepper ball in the head while protesting outside an Ice facility in a Chicago suburb."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "One volunteer witnessed a man facing return to his native Venezuela who asked how to reach the top of the seven-story court building. He wanted to jump.",
+        "Another volunteer has witnessed the arrest of mothers with children. 'Even when the mom breaks down crying and they're taking her away and the children are all marching by her side.'",
+        "'The kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "'Catholic social teaching is on the side of the immigrant,' explained the Rev Raymond Riding, a Catholic missionary in Tucson, Arizona.",
+        "Pope Leo, who was elected in May to succeed Francis, has said immigrants should be treated with dignity and respect and has called mass deportations 'a major crisis'.",
+        "Asked on CNN about the incident, Rep. Jim Jordan said, 'I think the Ice agents are doing the Lord's work.'"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Across the country, faith groups have formed a defense team for immigrants and have essentially created an underground railroad of help to uphold church teachings.",
+        "The Department of Homeland Security defended the action by calling protesters 'agitators' who blocked an Ice vehicle, impeding operations.",
+        "The pope has held his ground and said he wished the bishops were 'stronger in their voice.'"
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "faith groups"
+    ],
+    "victim": [
+      "immigrants"
+    ],
+    "villian": [
+      "Trump administration"
+    ]
+  },
+  "article_title": "As Trump cracks down, faith groups step up for immigrants: \u2018What has happened to our heart?\u2019"
+}

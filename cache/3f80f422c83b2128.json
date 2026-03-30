@@ -1,0 +1,59 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Politicians and Institutions Clashing Over Immigration Enforcement and the DHS Shutdown The Core DisputeThe clash centers on a partial Department of Homeland Security DHS shutdown that began in mid February triggered by a congressional standoff over immigration enforcement.",
+        "The hospitality workers' union Unite Here Local 11 sent letters to over 200 Southern California hotels and stadiums demanding they refuse to host ICE agents warning that workers had the right to refuse to report to work if immigration agents were present 14.The Supreme Court also weighed in on related questions appearing sympathetic to the Trump administration's defense of a metering policy that would allow officials to turn away asylum seekers at the border when deemed overwhelmed 7.In sum the clash involves nearly every branch and level of government Congress the White House federal agencies courts state and local officials unions and faith communities all pulling in different directions over the scope legality and human consequences of Trump's immigration enforcement agenda.",
+        "Broader Democratic and Civil Society ResponseReligious leaders labor unions and protest movements mobilized in opposition."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "The emerging deal would fund most of DHS including TSA and Customs and Border Protection but exclude ICE's Enforcement and Removal Operations the heart of Trump's deportation agenda.",
+        "Broader Democratic and Civil Society ResponseReligious leaders labor unions and protest movements mobilized in opposition.",
+        " U.S."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Broader Democratic and Civil Society ResponseReligious leaders labor unions and protest movements mobilized in opposition.",
+        "The hospitality workers' union Unite Here Local 11 sent letters to over 200 Southern California hotels and stadiums demanding they refuse to host ICE agents warning that workers had the right to refuse to report to work if immigration agents were present 14.The Supreme Court also weighed in on related questions appearing sympathetic to the Trump administration's defense of a metering policy that would allow officials to turn away asylum seekers at the border when deemed overwhelmed 7.In sum the clash involves nearly every branch and level of government Congress the White House federal agencies courts state and local officials unions and faith communities all pulling in different directions over the scope legality and human consequences of Trump's immigration enforcement agenda.",
+        "Mullin's confirmation hearing addressed a key Democratic demand requiring judges to sign off on warrants for home searches rather than relying solely on administrative warrants 329.Senator Peter Welch D VT noted Noem is gone."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "Broader Democratic and Civil Society ResponseReligious leaders labor unions and protest movements mobilized in opposition.",
+        "Clergy from multiple faiths joined No Kings protests across the country citing the immigration crackdown as a moral and spiritual issue 2.",
+        "Republicans pointed to high profile crimes by undocumented immigrants such as the alleged murder of 18 year old Loyola University student Sheridan Gorman by a Venezuelan national who had been released under Biden's catch and release policy and protected by Chicago's sanctuary policies 515."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "TSA Crisis and ICE Airport DeploymentsWith DHS funding halted TSA workers going weeks without pay began calling out sick or quitting en masse.",
+        "However experts and union leaders were skeptical of the move's effectiveness.",
+        "Politicians and Institutions Clashing Over Immigration Enforcement and the DHS Shutdown The Core DisputeThe clash centers on a partial Department of Homeland Security DHS shutdown that began in mid February triggered by a congressional standoff over immigration enforcement."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Senate negotiators (Thune, Schumer, Jeffries)"
+    ],
+    "victim": [
+      "TSA workers",
+      "immigrants and their families",
+      "American travelers"
+    ],
+    "villian": [
+      "Congressional Democrats",
+      "Trump administration"
+    ]
+  },
+  "query": 1
+}

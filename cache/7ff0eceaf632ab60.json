@@ -1,0 +1,49 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Republicans accused Minnesota Governor Tim Walz of failing to adequately combat Medicaid fraud, while Walz and Attorney General Keith Ellison argued that Trump's immigration surge \u2014 deploying 3,000 federal agents \u2014 actually hampered fraud investigations by overwhelming prosecutors with immigration-related petitions.",
+        "In Virginia, critics blamed local prosecutors and Democratic Governor Abigail Spanberger's executive order limiting ICE cooperation for the release of an individual who allegedly committed murder despite over 30 prior arrests.",
+        "DHS Secretary Kristi Noem, who oversaw 'a series of militarized immigration surges in major U.S. cities,' ultimately departed amid bipartisan backlash, with Republican senators calling her tenure 'a disaster'."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Economists warn that mass deportations risk long-term GDP losses of up to 7% and significant labor shortages."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Body camera footage contradicted DHS's official accounts of the killings of U.S. citizens Ruben Ray Martinez, Ren\u00e9e Good, and Alex Pretti, all of whom died during immigration enforcement operations.",
+        "As the mother of one victim noted, 'something needs to be changed in that department as far as the pattern of violence or abuse and impunity'."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "Faith communities and civil society groups argue that all levels of government have failed in their moral obligations to immigrants."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Responsibility for the outcomes of U.S. immigration enforcement is distributed \u2014 and contested \u2014 across multiple actors, including federal agencies, state governments, and political leadership.",
+        "Ultimately, responsibility is shared but deeply disputed: the federal government for lethal enforcement and misleading public accounts; state governments for cooperation failures or obstruction depending on one's viewpoint; and prior administrations for creating conditions \u2014 such as large undocumented populations \u2014 that current policy attempts to address.",
+        "As the mother of one victim noted, 'something needs to be changed in that department as far as the pattern of violence or abuse and impunity'."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [],
+    "victim": [
+      "U.S. citizens and immigrants affected by enforcement operations"
+    ],
+    "villian": [
+      "Department of Homeland Security (DHS)"
+    ]
+  },
+  "query": 4
+}

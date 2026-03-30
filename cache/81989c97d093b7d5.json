@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "A sharp theological dispute has emerged within Catholicism itself. Critics of Vice President JD Vance \u2014 himself a Catholic \u2014 argue his rhetoric directly contradicts Church teaching.",
+        "Conversely, some Catholic figures, notably Vance himself, have supported the crackdown, and Rep. Jim Jordan defended ICE agents by saying they are 'doing the Lord's work.' This reflects a genuine split within religious communities over how faith obligations interact with national sovereignty and rule of law.",
+        "The result is a genuine moral conflict with both sides claiming ethical high ground making immigration one of the most values laden policy debates in contemporary American politics."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Democratic Rep. Robert Garcia held up images of detained children and a blood-stained car seat, declaring, 'This violence does not make us safer.'",
+        "The mother of slain U.S. citizen Ruben Ray Martinez \u2014 who voted for President Trump \u2014 called for 'something to be changed in that department as far as the pattern of violence or abuse and impunity.'",
+        "San Antonio Archbishop Gustavo Garc\u00eda-Siller described the atmosphere in immigrant communities as moving from 'fear' to 'terror.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "The Catechism of the Catholic Church states that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+        "One Catholic writer argued that Vance's statements represent 'a flagrant insult to our faith,' noting that 'Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless.'",
+        "Pastor Larry Cochran concluded: 'We are convinced that none of us is permitted to respond with silence, cruelty, or apathy.'"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Pope Leo XIV has called mass deportations 'a major crisis,' urging bishops to be 'stronger in their voice' and insisting immigrants be treated 'with dignity and respect.'",
+        "The Richmond coalition acknowledged that 'respect for rule of law is essential to a healthy society' but insisted it 'should be applied with justice, mercy, proportionality and due process.'",
+        "The mother of slain U.S. citizen Ruben Ray Martinez called for 'something to be changed in that department as far as the pattern of violence or abuse and impunity.'"
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Faith communities and clergy"
+    ],
+    "victim": [
+      "Immigrants"
+    ],
+    "villian": [
+      "ICE and immigration enforcement agencies"
+    ]
+  },
+  "query": 5
+}

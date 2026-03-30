@@ -1,0 +1,1002 @@
+{
+    "topic": "Immigration in the United States",
+    "model_name": "claude-sonnet-4.6",
+    "model_type": "finetuned",
+    "article_results": [
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Body camera footage newly obtained by CBS News shows the moments leading up to and after an Immigration and Customs Enforcement agent fatally shot US citizen Ruben Ray Martinez in March 2025 and contradicts the Department of Homeland Security's account of the killing.",
+                        "DHS claimed that Martinez 'intentionally ran over' an agent 'resulting in him being on the hood of the vehicle,' adding that a separate agent 'fired defensive shots to protect himself, his fellow agents, and the general public.' The footage released by CBS on Friday tells a different story.",
+                        "After ICE agent Jonathan Ross shot and killed Good, then-DHS spokesperson Tricia McLaughlin said that the 37 year old was a 'violent rioter' who had 'weaponized her vehicle' in an 'act of domestic terrorism.' Video footage from several angles soon circulated and directly opposed that official statement from the Trump administration."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Rachel Reyes, Martinez's mom, told CBS News recently in her first televised interview that she is 'not a mother in denial. I'm just a mother in doubt, because I know my son and I know he's not a threat.'",
+                        "Martinez was 23 when an agent killed him in his car last spring in South Padre Island, Texas.",
+                        "Martinez's friend, who was also in the car at the time, had previously told interrogators that Martinez may have been nervous at the scene since the pair had hung out with friends and had food and drinks that evening."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Reyes, who voted for President Donald Trump in 2024, said, 'I don't blame President Trump for the death of my son, 'cause he wasn't the one who pulled the trigger.'",
+                        "'But,' she added, 'I do think that something needs to be changed in that department as far as the pattern of violence or abuse and impunity.'",
+                        "The newly released body camera footage is the latest chance for viewers to fact-check DHS's claims about its reasoning for killing a US citizen."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "CBS News"
+                ],
+                "victim": [
+                    "Ruben Ray Martinez",
+                    "Ren\u00e9e Good",
+                    "Alex Pretti"
+                ],
+                "villain": [
+                    "DHS/ICE"
+                ]
+            },
+            "article_title": "New Footage Yet Again Contradicts DHS Claims About Its Killing of a US Citizen"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Republicans on the House Oversight Committee accused Gov. Tim Walz and Attorney General Keith Ellison of stalling to fight fraud in government programs, saying they put politics ahead of rooting out abuse instead of pausing payments.",
+                        "Republican Rep. Clay Higgins of Louisiana called on Ellison to resign, accusing him of not leading investigations into criminal fraud activity.",
+                        "Comer on Wednesday accused Walz of not stopping Medicaid payments despite knowledge of fraud because he 'didn't want to rock the boat.'"
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Last week, Vice President JD Vance said the Trump administration would 'temporarily halt' $243 million in Medicaid funding to Minnesota over fraud concerns, as part of what he described as an aggressive crackdown on misuse of public funds.",
+                        "Minnesota sued on Monday to stop the money from being withheld, warning it may have to cut health care for low-income families if the money is held back.",
+                        "Ellison said his office has 'punched above our weight' in winning 300 Medicaid fraud convictions and recovering more than $80 million for taxpayers."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Democratic Rep. Robert Garcia of California, as part of the effort to focus the hearing on the immigration crackdown, held up images of children detained by federal officers and a picture of the blood-stained car seat of Renee Good who was killed by an officer.",
+                        "Federal officers also killed another Minnesota resident, Alex Pretti, who had been filming enforcement operations.",
+                        "'Operation Metro Surge did nothing to address fraud in our state,' Ellison said. 'It harmed our economy and it scarred our people and it dealt a devastating blow to fraud enforcement in Minnesota.'"
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Republicans on the House Oversight Committee accused Gov. Tim Walz and Attorney General Keith Ellison of stalling to fight fraud in government programs, saying they put politics ahead of rooting out abuse instead of pausing payments.",
+                        "Walz said he wanted to work with the federal government to help with fraud investigations, but the immigration surge was making that more difficult.",
+                        "Ellison noted the series of resignations of lawyers in the U.S. Attorney's Office in Minnesota, leaving those who remain 'drowning in immigration-related petitions' instead of prosecuting fraud."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Tim Walz",
+                    "Keith Ellison"
+                ],
+                "victim": [
+                    "Minnesota residents",
+                    "American taxpayers"
+                ],
+                "villain": [
+                    "Donald Trump"
+                ]
+            },
+            "article_title": "Gov. Tim Walz tells a House panel the Trump immigration crackdown hampered Minnesota\u2019s fraud fight"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Noem drew bipartisan fury after accusing Minneapolis nurse Alex Pretti and mother Renee Nicole Good of being domestic terrorists after both were shot and killed by federal agents in January.",
+                        "Sen. John Fetterman (D-Pa.) posted on X asking Trump to 'immediately fire' Noem, saying she is 'betraying DHS's core mission.'",
+                        "Republican Sens. Thom Tillis (N.C.) and Lisa Murkowski (Alaska) \u2014 both of whom voted to confirm Noem \u2014 demanded her resignation in January."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "She also spent nearly $300 million in border security funds on a luxury jet fleet and $220 million more on ads featuring her.",
+                        "She bottlenecked FEMA's Hurricane Helene disaster relief by requiring her personal approval on expenses over $100,000, cycled through three acting FEMA administrators, and presided over mass cuts to that agency's workforce."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Noem drew bipartisan fury after accusing Minneapolis nurse Alex Pretti and mother Renee Nicole Good of being domestic terrorists after both were shot and killed by federal agents in January.",
+                        "She also criticized Pretti for carrying a gun with ammunition to protest ICE enforcement, suggesting he was 'wishing to inflict harm on officers.'",
+                        "Noem's exit leaves Trump's mass deportation agenda without its most prominent face amid a public backlash."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Some Trump administration advisers have discussed 'recalibrating' the White House's immigration enforcement approach as polling shows declining support for Trump's immigration policies.",
+                        "At a March 3 Senate Judiciary oversight hearing, Tillis called Noem's tenure 'a disaster' and threatened to block all of Trump's nominations until she answered his questions.",
+                        "Noem's exit leaves Trump's mass deportation agenda without its most prominent face amid a public backlash."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Markwayne Mullin"
+                ],
+                "victim": [
+                    "Alex Pretti",
+                    "Renee Nicole Good"
+                ],
+                "villain": [
+                    "Kristi Noem"
+                ]
+            },
+            "article_title": "DHS Secretary Kristi Noem out, Trump says"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Trump stood by the federal agents' actions and pushed the blame back on Walz and Minnesota officials in a Saturday Truth Social post, referencing allegations of widespread social services fraud in the state.",
+                        "The Mayor and the Governor are inciting Insurrection, with their pompous, dangerous, and arrogant rhetoric!' Trump posted.",
+                        "Tensions between Minnesota local and state officials and the White House have continued to grow, with the Department of Justice (DOJ) issuing subpoenas accusing Walz and Frey of obstructing an immigration enforcement investigation."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Thousands protested Friday and called for an 'economic blackout' despite freezing conditions.",
+                        "Their outrage over the killing threatens to imperil a government funding vote this week in the Senate, which would allocate funding for DHS.",
+                        "If these measures are not passed by the Friday deadline, the government will shut down partially."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Alex Jeffrey Pretti, a 37-year-old intensive care nurse and Minneapolis resident, was shot several times in the chest before he was taken to the hospital.",
+                        "The shooting comes weeks after a federal immigration enforcement officer shot and killed a woman, resident Renee Good, setting off widespread protests in the Twin Cities.",
+                        "I just spoke with the White House after another horrific shooting by federal agents this morning,' Walz said on X. 'Minnesota has had it. This is sickening.'"
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Minneapolis Mayor Jacob Frey (D) called on President Trump to 'act like a leader' and to put 'Minneapolis, put America, first in this moment.'",
+                        "'Let's end this operation and, I'm telling you, our city will come back,' Frey said at the press conference. 'Safety will be restored. We're asking for you to take action now to remove these federal agents.'",
+                        "After the latest reports of a shooting, Minnesota Gov. Tim Walz (D) again called for Trump to remove the federal law enforcement from his state."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Jacob Frey",
+                    "Tim Walz"
+                ],
+                "victim": [
+                    "Alex Jeffrey Pretti"
+                ],
+                "villain": [
+                    "Federal law enforcement/ICE agents"
+                ]
+            },
+            "article_title": "Man killed in new Minneapolis shooting; DHS says victim was armed"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "White House Deputy Chief of Staff Stephen Miller wrote on X: 'If an illegal alien lives in a sanctuary jurisdiction they will be allowed by Democrat leaders to commit infinity crimes.'",
+                        "On February 4, Virginia Governor Abigail Spanberger, a Democrat, signed an executive order that local and state law enforcement are no longer required to cooperate with U.S. Immigration and Customs Enforcement ICE.",
+                        "ICE wrote on X: 'Just a month ago, Governor Spanberger signed an executive order barring VSP from working with ICE to take criminal illegal aliens, like this guy, off Virginia streets. This is yet another American death at the hands of someone who SHOULDN'T BE HERE that could have been prevented.'"
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Stephanie Minter's family wrote in an online obituary: 'Stephanie's passing is a lost felt throughout an entire family and a whole host of friends. Stephanie can best be described as a happy, jolly individual, filled with love and adoration for her loved ones. A beam of light in dark places.'",
+                        "DHS Deputy Assistant Secretary Lauren Bis in a statement: 'This illegal alien's murder of an innocent, beautiful American woman came less than 24 hours before Governor Spanberger's demonization of ICE law enforcement.'",
+                        "Conservative commentator Matt Walsh wrote: 'This is infuriating. How is an illegal immigrant not automatically deported after one charge? We are sacrificing American lives for the sake of coddling the most depraved, useless dirtbags on the planet. Outrageous. Grotesque.'"
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "ICE wrote on X: 'Just a month ago, Governor Spanberger signed an executive order barring VSP from working with ICE to take criminal illegal aliens, like this guy, off Virginia streets. This is yet another American death at the hands of someone who SHOULDN'T BE HERE that could have been prevented.'",
+                        "DHS Deputy Assistant Secretary Lauren Bis in a statement: 'We are calling on Virginia Governor Abigail Spanberger and Virginia's sanctuary politicians to commit to not releasing this murderer and violent career criminal from their jail without notifying ICE.'",
+                        "Spanberger's office said in statement: 'DHS should request a signed judicial warrant to ensure this violent criminal is deported.'"
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "ICE"
+                ],
+                "victim": [
+                    "Stephanie Minter"
+                ],
+                "villain": [
+                    "Abdul Jalloh"
+                ]
+            },
+            "article_title": "Fury As Immigrant With Over 30 Arrests Allegedly Kills Woman At Bus Stop"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Fairfax County says it is not a sanctuary jurisdiction, but top Republicans on the House Judiciary Committee slammed Commonwealth's Attorney Steve Descano and Sheriff Stacey Kincaid for failing to cooperate with ICE on the arrest of illegal migrants.",
+                        "The US Department of Homeland Security, which said it lodged an immigration retainer for Jalloh as early as 2020, slammed 'Virginia's sanctuary politicians.'",
+                        "DHS called on the new Democratic governor to commit to working with ICE to keep dangerous migrants off the streets."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "That left Jalloh on the streets on Feb. 23, when cops said he repeatedly stabbed 41-year-old mom Stephanie Minter to death at a bus stop on Richmond Highway in Fairfax County.",
+                        "'Unfortunately, the defendant in this case also had a history of selecting victims with no fixed address \u2013 some of the most vulnerable members of our community,' Birnbaum said.",
+                        "Stephanie Minter, a 41-year-old Virginia mother, was stabbed to death on Feb. 23."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Top Republicans on the House Judiciary Committee slammed Commonwealth's Attorney Steve Descano and Sheriff Stacey Kincaid for failing to cooperate with ICE on the arrest of illegal migrants.",
+                        "'We are calling on Virginia Gov. Abigail Spanberger and Virginia's sanctuary politicians to commit to not releasing this murderer and violent career criminal from jail without notifying [Immigration and Customs Enforcement],' DHS Deputy Assistant Secretary Laren Bis said in a statement.",
+                        "'Unfortunately, the defendant in this case also had a history of selecting victims with no fixed address \u2013 some of the most vulnerable members of our community,' Birnbaum said."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Department of Homeland Security"
+                ],
+                "victim": [
+                    "Stephanie Minter"
+                ],
+                "villain": [
+                    "Abdul Jalloh"
+                ]
+            },
+            "article_title": "The pathetic reason illegal migrant who \u2018hacked mom to death\u2019 in lefty DC suburb was free \u2014 despite 30 arrests"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "While Democrats fight to sabotage these gains and drag us back to the chaos of open borders, skyrocketing costs, and rampant crime, President Trump remains unwavering in his commitment to delivering the security, prosperity, and safety the American people deserve.",
+                        "The results are especially pronounced in Democrat-run jurisdictions where the Trump Administration conducted mass deportation and enhanced law enforcement operations.",
+                        "the three metro areas that saw modest price increases are all so-called 'sanctuary cities.'"
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Mass deportations = lower housing costs. In 14 of the top 20 metro areas with the largest illegal migrant populations, home list prices declined year-over-year in December.",
+                        "American truckers and construction workers \u2014 both industries with high numbers of foreign-born workers \u2014 have reported large increases in pay as blue-collar wages grow at the fastest clip in decades.",
+                        "Overall, real wages for American workers are on track to rise 4.2% in President Trump's first full year."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [],
+                    "present": false
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "In just one year, President Donald J. Trump's ironclad commitment to securing our border and enforcing our nation's laws is liberating Americans from the crushing burden of unchecked illegal immigration.",
+                        "Through mass deportations, the Trump Administration is freeing up resources, revitalizing opportunity, and restoring safety \u2014 delivering tangible results that put American citizens first.",
+                        "While Democrats fight to sabotage these gains and drag us back to the chaos of open borders, skyrocketing costs, and rampant crime, President Trump remains unwavering in his commitment to delivering the security, prosperity, and safety the American people deserve."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Donald J. Trump"
+                ],
+                "victim": [
+                    "Americans"
+                ],
+                "villain": [
+                    "illegal immigrants"
+                ]
+            },
+            "article_title": "Mass Deportations Are Improving Americans\u2019 Quality of Life "
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "The suspect, identified as Ayman Mohamad Ghazali, 41, allegedly rammed the synagogue and opened fire at security guards with a rifle, authorities said.",
+                        "Armed security returned fire and shot him dead.",
+                        "Baydoun condemned the attack and urged residents to remain vigilant, 'especially as we gather during these sacred final days of Ramadan.'"
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "All staff and 140 students were evacuated, FOX 2 Detroit reported.",
+                        "Oakland County Sheriff Michael Bouchard said one security guard was struck by the suspect's truck. In a later update, he said roughly 30 officers were taken to the hospital for smoke inhalation after entering the building.",
+                        "'Earlier this month, he lost several members of his own family, including his niece and nephew, in an Israeli attack on their home in Lebanon.'"
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "Baydoun condemned the attack and urged residents to remain vigilant, 'especially as we gather during these sacred final days of Ramadan.'",
+                        "The raid came hours after a suspect rammed a vehicle into Temple Israel, a large Reform synagogue in West Bloomfield.",
+                        "Earlier today we learned that the individual responsible for the incident that took place at Temple Israel Synagogue in West Bloomfield was a resident of Dearborn Heights."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "White House press secretary Karoline Leavitt confirmed President Donald Trump had been briefed on the shooting, while FBI Director Kash Patel and Attorney General Pam Bondi said FBI personnel and agents with the Bureau of Alcohol, Tobacco, Firearms and Explosives are assisting in the investigation.",
+                        "Armed FBI agents executed a search warrant at a home in Michigan overnight Thursday, believed to be in connection with the synagogue attacker who rammed a vehicle into a Jewish house of worship earlier in the day.",
+                        "Multiple law enforcement sources and federal authorities said the suspect entered the United States as the spouse of a U.S. citizen roughly 15 years ago during the Obama administration and was granted citizenship in 2016."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "FBI agents"
+                ],
+                "victim": [
+                    "Temple Israel synagogue community"
+                ],
+                "villain": [
+                    "Ayman Mohamad Ghazali"
+                ]
+            },
+            "article_title": "Armed FBI agents carry out search warrant believed to be in connection to synagogue attacker"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "At first blush the Trump administration's deportation numbers reflect an unparalleled effort to remove vast numbers of illegal immigrants. However, internal data \u2014 and the delayed release of the administration's annual enforcement report \u2014 tells a more complicated story.",
+                        "The Trump administration in January celebrated the execution of more than 675,000 deportations throughout 2025, but immigration hardliners that spoke to the DCNF say this figure does not convey the entire story.",
+                        "However the back end of the enforcement system such as cooperation from foreign governments and immigration court capacity have proven to be major obstacles for mass deportation."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "The United States is offering illegal aliens $2,600 and a free flight to self-deport now.",
+                        "President Donald Trump has made immigration enforcement a top policy priority since re-entering the White House, overseeing an unprecedented hiring surge in ICE agents and securing billions in additional funding within the Big Beautiful Bill for enforcement agencies.",
+                        "Texas GOP Rep. Chip and other Republicans have pushed to solve the issue by withholding aid from all recalcitrant countries."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [],
+                    "present": false
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Texas GOP Rep. Chip and other Republicans have pushed to solve the issue by withholding aid from all recalcitrant countries, or in other situations, the administration has deported illegal migrants to third countries.",
+                        "But the president must now bring that same level of resolve to carrying out his promise to deport the millions of people who are still in this country illegally, encouraging the administration to vigorously conduct worksite enforcement, target visa overstays and crack down on illegal migrants with outstanding orders of removal.",
+                        "The group wants Trump to deport one million illegal migrants by the end of 2026 and says it will soon be releasing a comprehensive playbook on how to achieve this."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Trump administration"
+                ],
+                "victim": [
+                    "American people"
+                ],
+                "villain": [
+                    "illegal immigrants"
+                ]
+            },
+            "article_title": "SCOOP: There\u2019s More Than Meets The Eye In Noem DHS\u2019 Deportation Figures"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "But political debate over their economic contributions has ramped up under the second Trump administration.",
+                        "Some top administration officials, including Vice President JD Vance, have argued that limiting immigration will raise wages and create more job opportunities for U.S.-born workers.",
+                        "In the modern era, successive administrations have agreed on the need to reform the asylum system and bolster border security, while differing sharply on how to manage immigration more broadly."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Immigrants\u2014totaling almost 48 million out of a population of roughly 335 million people\u2014generated about $1.7 trillion in economic activity in 2023, according to an American Immigration Council analysis.",
+                        "The Peterson Institute for International Economics, meanwhile, estimated in 2024 that deporting between 1.3 and 8.3 million undocumented immigrants would reduce U.S. real GDP by as much as 7 percent by 2028 while significantly decreasing U.S. employment, increasing inflation, and driving down demand.",
+                        "This could cut annual economic growth by almost one-third by 2035, according to an October 2025 study by the nonpartisan National Foundation for American Policy (NFAP)."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [],
+                    "present": false
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "The Labor Department warned in October 2025 that the Trump administration's immigration policies risk creating a labor shortage in the sector.",
+                        "Still, economic analyses widely suggest that the administration's actions, especially mass deportations and restrictions on legal immigration pathways, will have a negative effect on long-term U.S. economic growth.",
+                        "The administration has contended that these workers are available to counter labor shortages."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [],
+                "victim": [
+                    "immigrants"
+                ],
+                "villain": [
+                    "Trump administration"
+                ]
+            },
+            "article_title": "How Does Immigration Affect the U.S. Economy?"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Hundreds of clergy traveled to Minneapolis to protest federal immigration enforcement actions and rallied outside the U.S. Capitol with calls to 'dismantle ICE' \u2013 reflecting a broader national response among religious communities.",
+                        "We are troubled by policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods.",
+                        "The coalition said that while respect for rule of law is essential to a healthy society, it should be applied with 'justice, mercy, proportionality and due process.'"
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Widmer said stories were shared of families who, despite living in the United States for decades, are now afraid to run everyday errands like going to the grocery store or medical appointments.",
+                        "Contreras told VPM News he was carrying a heavy heart watching and listening to what immigrants are going through.",
+                        "We are grieved by rhetoric that dehumanizes those made in the image of God."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "We are grieved by rhetoric that dehumanizes those made in the image of God.",
+                        "Standing side by side and delivering a unified statement, the clergy members said this is a moment that calls for moral seriousness, not indifference.",
+                        "Everyone that responded to the call to show love to the immigrants is responding to the Holy Spirit, who is the one that unites the church of God."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "The group of leaders also acknowledged that America's immigration system is in need of comprehensive reform.",
+                        "The coalition said they learned practical ways to partner with nonprofits serving immigrant communities and learned how to advocate for better federal and state policy.",
+                        "We are convinced that none of us is permitted to respond with silence, cruelty, or apathy."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "faith leaders coalition"
+                ],
+                "victim": [
+                    "immigrants"
+                ],
+                "villain": [
+                    "US Immigration and Customs Enforcement (ICE)"
+                ]
+            },
+            "article_title": "Richmond-area faith leaders speak out on federal immigration enforcement"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Some Catholics, notably JD Vance, support the immigration crackdown and have condemned US bishops for not backing the administration's enforcement actions.",
+                        "Many were shocked by video that surfaced in early October that showed a Presbyterian pastor hit by a pepper ball in the head while protesting outside an Ice facility in a Chicago suburb.",
+                        "The incident involving Rev David Black stoked further drama when the Department of Homeland Security defended the action by calling protesters 'agitators' who blocked an Ice vehicle, impeding operations."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in the California city of Coachella after federal immigration agents swept through Latino neighborhoods during the summer.",
+                        "'The kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there.'",
+                        "The deportation crisis has hit immigrants with force, traumatizing children and parents alike all along the heavily Latino US borderlands and beyond."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "'Catholic social teaching is on the side of the immigrant,' explained the Rev Raymond Riding, a Catholic missionary in Tucson, Arizona, who has been ministering to relatives of detained immigrants.",
+                        "Pope Leo, who was elected in May to succeed Francis, has said immigrants should be treated with dignity and respect and has called mass deportations 'a major crisis'.",
+                        "'What has happened to our heart?' he asked. 'Today in the country and the world, I wonder whether we can even recognize our country, because we were founded on these principles and our Lady of Liberty has stood where so many of our immigrants have entered as a sign of hope, as a place of justice.'"
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "US cities along the south-west border offer lessons to cities like Chicago, Portland and New York City on how to respond to the immigration dragnet by supporting immigrant families and protecting against what Pope Leo XIV, who was born in Chicago, called 'inhuman' treatment of immigrants.",
+                        "Days after meeting with the pope, Seitz stood before union leaders, immigrant advocates, aid groups, political leaders and students and called on churches and non-profit groups along the border to stand up for poor people and immigrants.",
+                        "Across the country, faith groups have formed a defense team for immigrants, at a time of rising pressures to remove them, and have essentially created an underground railroad of help to uphold church teachings."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Faith groups (nuns, bishops, laity, interfaith volunteers)"
+                ],
+                "victim": [
+                    "Immigrants"
+                ],
+                "villain": [
+                    "Trump administration (ICE/federal immigration enforcement)"
+                ]
+            },
+            "article_title": "As Trump cracks down, faith groups step up for immigrants: \u2018What has happened to our heart?\u2019"
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "When I was 6, I wished those different people next door lived somewhere else, instead of next door to me. But I was ashamed of feeling that way. I knew it was wrong. Mr. Vance is not only an adult; he is a Catholic.",
+                        "This is such a flagrant insult to our faith that I don't even know how to explain it.",
+                        "What JD Vance is teaching is not nuanced or complex. He is simply saying, 'If you're different, go away.' And it's not just a single out-of-context clip from a podcast."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "When I was growing up, we lived next door to a group home for adults with disabilities. There were probably 15 people living there, not including the old couple who housed them.",
+                        "One who came often was Bill, a tall, lanky man with no teeth and a massive underbite, his cartoonishly bent legs flapping in old-fashioned trousers.",
+                        "One year, we opened the door and old Bill walked in. My parents looked at each other. Then they did the only thing that seemed reasonable: They offered him Elijah's cup."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "The Catechism of the Catholic Church teaches that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+                        "Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless.",
+                        "It is cowardly, it is selfish, it is un-American, it is un-Christian to reject people just because they are different\u2014which is all that Mr. Vance noted."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "This administration wants to set itself up as somehow Christian. Let them, then, do the bare minimum: Welcome the stranger.",
+                        "The Catechism of the Catholic Church teaches that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+                        "Its shameful not to try to get past it and to be better."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "the author's mother"
+                ],
+                "victim": [
+                    "immigrants"
+                ],
+                "villain": [
+                    "JD Vance"
+                ]
+            },
+            "article_title": "JD Vance\u2019s immigration comments are an insult to our Catholic faith"
+        }
+    ],
+    "rag_results": [
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "She faced bipartisan fury for labeling shooting victims 'domestic terrorists,' and roughly 190 co-sponsors expressed support for her impeachment.",
+                        "Minneapolis Mayor Jacob Frey called on Trump to remove federal agents, while the Trump administration accused local officials of 'inciting insurrection'.",
+                        "These controversies collectively reflect a deeply polarized national debate over the balance between border security, rule of law, human rights, economic interests, and the proper limits of federal enforcement power."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Immigrants \u2014 nearly 48 million people \u2014 generated approximately $1.7 trillion in economic activity and paid $652 billion in taxes in 2023.",
+                        "Economists warn that mass deportations could reduce U.S. GDP by as much as 7 percent by 2028, increase inflation, and shrink the labor force.",
+                        "However, the administration's crackdown has already weakened job growth in hotels, restaurants, construction, and healthcare."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Body camera footage showed U.S. citizen Ruben Ray Martinez's car was 'stationary or going at a very low rate of speed' when he was fatally shot, contradicting DHS claims that he had 'intentionally ran over' an agent.",
+                        "Similarly, Minneapolis residents Ren\u00e9e Good and Alex Pretti were killed by federal agents \u2014 in both cases, the administration labeled them threats, but video footage told a different story: Good appeared to be driving away, and Pretti was holding a phone, not a gun.",
+                        "The deployment of thousands of federal agents in cities like Minneapolis was described by Minnesota Attorney General Keith Ellison as having 'harmed our economy,' 'scarred our people,' and undermined fraud enforcement."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "Religious communities have become a significant voice of opposition. Faith leaders from Catholic, Protestant, and interfaith traditions have organized coalitions, monitored immigration courts, delivered food to homebound immigrants, and publicly condemned enforcement tactics.",
+                        "Pope Leo XIV called mass deportations 'a major crisis' and urged U.S. bishops to be 'stronger in their voice'.",
+                        "Critics within religious circles have challenged figures like Vice President JD Vance \u2014 himself Catholic \u2014 for promoting policies they argue violate core religious teachings on welcoming strangers and protecting the vulnerable."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Virginia Governor Spanberger responded that DHS should obtain judicial warrants for deportations.",
+                        "The discrepancy stems from the administration conflating border turnarounds, voluntary departures, and arrests with formal judicial removal orders.",
+                        "Structural obstacles including a backlog of over 3 million immigration court cases and uncooperative foreign governments have further hampered mass deportation goals."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Virginia Governor Spanberger",
+                    "faith communities",
+                    "Minnesota Attorney General Keith Ellison"
+                ],
+                "victim": [
+                    "immigrants",
+                    "Ruben Ray Martinez",
+                    "Ren\u00e9e Good",
+                    "Alex Pretti",
+                    "Stephanie Minter"
+                ],
+                "villain": [
+                    "DHS",
+                    "Kristi Noem",
+                    "Abdul Jalloh"
+                ]
+            },
+            "query": 0
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Minneapolis Mayor Jacob Frey called on President Trump to 'act like a leader' and demanded the removal of federal agents, stating: 'Let's end this operation and our city will come back'.",
+                        "In response, Trump accused the mayor and governor of 'inciting Insurrection' and the Department of Justice issued subpoenas accusing both officials of obstructing immigration enforcement.",
+                        "Senate Democrats threatened to withhold votes for DHS funding over the agency's conduct, with Senate Minority Leader Chuck Schumer stating Democrats 'will not provide the votes' on a package if DHS appropriations were included."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Ellison stated the operation 'harmed our economy and scarred our people and dealt a devastating blow to fraud enforcement in Minnesota'.",
+                        "Governor Walz and Attorney General Keith Ellison argued that the surge of 3,000 federal agents in Minnesota \u2014 dubbed 'Operation Metro Surge' \u2014 actively hampered fraud investigations rather than helping them, leaving U.S. Attorney's Office lawyers 'drowning in immigration-related petitions' instead of prosecuting fraud cases."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Border Patrol agents shot and killed Alex Pretti, a 37-year-old nurse and American citizen, while the Border Patrol Union claimed he 'brandished' a weapon. Video evidence showed him holding a phone, not a gun.",
+                        "In Chicago, a Presbyterian pastor, Rev. David Black, was struck by a pepper ball in the head while protesting outside an ICE facility.",
+                        "Some priests celebrating mass online for immigrants too frightened to leave their homes."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "A coalition of Richmond-area faith leaders condemned 'rhetoric that dehumanizes those made in the image of God' and policies that 'separate families, sow anxiety among children, and create fear around schools, hospitals, and houses of worship'.",
+                        "When asked about the incident on CNN, Rep. Jim Jordan largely defended the agents, stating, 'ICE agents are doing the Lord's work'.",
+                        "Hundreds of additional clergy traveled to Minneapolis from across the country to protest federal operations and rallied outside the U.S. Capitol."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Minneapolis Mayor Jacob Frey called on President Trump to 'act like a leader' and demanded the removal of federal agents, stating: 'Let's end this operation and our city will come back'.",
+                        "Minnesota Governor Tim Walz called the operations 'sickening' and demanded Trump 'pull the thousands of violent, untrained officers out of Minnesota'.",
+                        "Approximately 190 congressional co-sponsors expressed support for impeaching DHS Secretary Kristi Noem, and Republican Senators Thom Tillis and Lisa Murkowski demanded her resignation."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Local and state officials (Mayor Jacob Frey, Governor Tim Walz, faith leaders, civil society)"
+                ],
+                "victim": [
+                    "American citizens and civilians (Ren\u00e9e Good, Alex Pretti, Ruben Ray Martinez, protesters, immigrants)"
+                ],
+                "villain": [
+                    "DHS / Federal immigration agents (ICE, Border Patrol)"
+                ]
+            },
+            "query": 1
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Catholic writer Simcha Fisher challenged Vice President JD Vance directly, noting that his rhetoric \u2014 justifying rejection of immigrants simply because they are 'different' \u2014 represents 'a flagrant insult to our faith,' citing the Catechism's teaching that prosperous nations are 'obliged...to welcome the foreigner'.",
+                        "Democratic Rep. Robert Garcia held up images of the blood-stained car seat from the Good shooting, declaring: 'This violence does not make us safer'.",
+                        "The killings triggered massive protests, an 'economic blackout,' and congressional attempts to defund DHS \u2014 demonstrating how enforcement violence radiates outward to affect entire communities far beyond the immediate targets."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "In Minnesota, the immigration surge was described as having 'harmed our economy and...scarred our people' while paradoxically hampering the state's ability to prosecute fraud.",
+                        "The killings triggered massive protests, an 'economic blackout,' and congressional attempts to defund DHS \u2014 demonstrating how enforcement violence radiates outward to affect entire communities far beyond the immediate targets."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "In Southern California, some parish priests noted that 'kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there,' and some bishops temporarily allowed people to skip Sunday mass because immigrants were too afraid to leave their homes.",
+                        "A coalition of Richmond-area faith leaders gathered publicly to declare: 'We are grieved by rhetoric that dehumanizes those made in the image of God' and expressed concern about 'policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods'.",
+                        "In Minneapolis, federal agents killed nurse Alex Pretti and resident Ren\u00e9e Good in separate incidents, with video evidence contradicting official DHS accounts that both were threats."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "A coalition of Richmond-area faith leaders gathered publicly to declare: 'We are grieved by rhetoric that dehumanizes those made in the image of God' and expressed concern about 'policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods'.",
+                        "Catholic writer Simcha Fisher challenged Vice President JD Vance directly, noting that his rhetoric \u2014 justifying rejection of immigrants simply because they are 'different' \u2014 represents 'a flagrant insult to our faith,' citing the Catechism's teaching that prosperous nations are 'obliged...to welcome the foreigner'.",
+                        "Pope Leo XIV called mass deportations 'a major crisis' and urged bishops to be 'stronger in their voice,' while El Paso Bishop Mark Seitz asked pointedly: 'What has happened to our heart?'"
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Pope Leo XIV called mass deportations 'a major crisis' and urged bishops to be 'stronger in their voice.'",
+                        "Catholic nuns and volunteers in Nogales, Mexico serve two meals daily to deported immigrants despite 'rising threats against aid workers'.",
+                        "Minnesota Attorney General Keith Ellison stated that enforcement operations 'scarred our people'."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "faith leaders and clergy"
+                ],
+                "victim": [
+                    "immigrant communities"
+                ],
+                "villain": [
+                    "immigration enforcement (DHS/federal agents)"
+                ]
+            },
+            "query": 2
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "The Trump administration and some supporters argue that restricting immigration benefits American workers.",
+                        "Vice President JD Vance has argued that limiting immigration will raise wages and create more job opportunities for U.S.-born workers.",
+                        "In sum, the economic picture is deeply contested, with the administration emphasizing near-term wage and employment gains for native-born workers, while independent economists warn of significant long-term GDP contraction, labor shortages, and reduced innovation."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Nearly 48 million immigrants generated approximately $1.7 trillion in economic activity in 2023 and paid roughly $652 billion in local, state, and federal taxes.",
+                        "The Peterson Institute for International Economics estimated that deporting between 1.3 and 8.3 million undocumented immigrants could reduce U.S. real GDP by as much as 7% by 2028, while significantly decreasing employment, increasing inflation, and driving down demand.",
+                        "A 2025 study by the nonpartisan National Foundation for American Policy (NFAP) warned that enforcement policies could cut annual economic growth by almost one-third by 2035."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [],
+                    "present": false
+                },
+                "morality": {
+                    "evidence": [],
+                    "present": false
+                },
+                "responsibility": {
+                    "evidence": [
+                        "In Minnesota, Attorney General Keith Ellison stated that federal immigration enforcement operations 'harmed our economy' and disrupted fraud enforcement efforts, leaving prosecutors overwhelmed with immigration-related cases rather than financial crimes.",
+                        "The Labor Department warned in October 2025 that Trump's immigration policies risk creating a labor shortage in the agricultural sector.",
+                        "Economic analyses widely suggest that the administration's mass deportation and immigration restriction policies will have a negative effect on long-term U.S. economic growth, even if some short-term labor market shifts benefit certain native-born workers."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Trump administration"
+                ],
+                "victim": [
+                    "immigrants",
+                    "U.S. economy"
+                ],
+                "villain": []
+            },
+            "query": 3
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "Republicans accused Minnesota Governor Tim Walz of failing to adequately combat Medicaid fraud, while Walz and Attorney General Keith Ellison argued that Trump's immigration surge \u2014 deploying 3,000 federal agents \u2014 actually hampered fraud investigations by overwhelming prosecutors with immigration-related petitions.",
+                        "In Virginia, critics blamed local prosecutors and Democratic Governor Abigail Spanberger's executive order limiting ICE cooperation for the release of an individual who allegedly committed murder despite over 30 prior arrests.",
+                        "DHS Secretary Kristi Noem, who oversaw 'a series of militarized immigration surges in major U.S. cities,' ultimately departed amid bipartisan backlash, with Republican senators calling her tenure 'a disaster'."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [
+                        "Economists warn that mass deportations risk long-term GDP losses of up to 7% and significant labor shortages."
+                    ],
+                    "present": true
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Body camera footage contradicted DHS's official accounts of the killings of U.S. citizens Ruben Ray Martinez, Ren\u00e9e Good, and Alex Pretti, all of whom died during immigration enforcement operations.",
+                        "As the mother of one victim noted, 'something needs to be changed in that department as far as the pattern of violence or abuse and impunity'."
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "Faith communities and civil society groups argue that all levels of government have failed in their moral obligations to immigrants."
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Responsibility for the outcomes of U.S. immigration enforcement is distributed \u2014 and contested \u2014 across multiple actors, including federal agencies, state governments, and political leadership.",
+                        "Ultimately, responsibility is shared but deeply disputed: the federal government for lethal enforcement and misleading public accounts; state governments for cooperation failures or obstruction depending on one's viewpoint; and prior administrations for creating conditions \u2014 such as large undocumented populations \u2014 that current policy attempts to address.",
+                        "As the mother of one victim noted, 'something needs to be changed in that department as far as the pattern of violence or abuse and impunity'."
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [],
+                "victim": [
+                    "U.S. citizens and immigrants affected by enforcement operations"
+                ],
+                "villain": [
+                    "Department of Homeland Security (DHS)"
+                ]
+            },
+            "query": 4
+        },
+        {
+            "generic_framing": {
+                "conflict": {
+                    "evidence": [
+                        "A sharp theological dispute has emerged within Catholicism itself. Critics of Vice President JD Vance \u2014 himself a Catholic \u2014 argue his rhetoric directly contradicts Church teaching.",
+                        "Conversely, some Catholic figures, notably Vance himself, have supported the crackdown, and Rep. Jim Jordan defended ICE agents by saying they are 'doing the Lord's work.' This reflects a genuine split within religious communities over how faith obligations interact with national sovereignty and rule of law.",
+                        "The result is a genuine moral conflict with both sides claiming ethical high ground making immigration one of the most values laden policy debates in contemporary American politics."
+                    ],
+                    "present": true
+                },
+                "economic": {
+                    "evidence": [],
+                    "present": false
+                },
+                "human_interest": {
+                    "evidence": [
+                        "Democratic Rep. Robert Garcia held up images of detained children and a blood-stained car seat, declaring, 'This violence does not make us safer.'",
+                        "The mother of slain U.S. citizen Ruben Ray Martinez \u2014 who voted for President Trump \u2014 called for 'something to be changed in that department as far as the pattern of violence or abuse and impunity.'",
+                        "San Antonio Archbishop Gustavo Garc\u00eda-Siller described the atmosphere in immigrant communities as moving from 'fear' to 'terror.'"
+                    ],
+                    "present": true
+                },
+                "morality": {
+                    "evidence": [
+                        "The Catechism of the Catholic Church states that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+                        "One Catholic writer argued that Vance's statements represent 'a flagrant insult to our faith,' noting that 'Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless.'",
+                        "Pastor Larry Cochran concluded: 'We are convinced that none of us is permitted to respond with silence, cruelty, or apathy.'"
+                    ],
+                    "present": true
+                },
+                "responsibility": {
+                    "evidence": [
+                        "Pope Leo XIV has called mass deportations 'a major crisis,' urging bishops to be 'stronger in their voice' and insisting immigrants be treated 'with dignity and respect.'",
+                        "The Richmond coalition acknowledged that 'respect for rule of law is essential to a healthy society' but insisted it 'should be applied with justice, mercy, proportionality and due process.'",
+                        "The mother of slain U.S. citizen Ruben Ray Martinez called for 'something to be changed in that department as far as the pattern of violence or abuse and impunity.'"
+                    ],
+                    "present": true
+                }
+            },
+            "narrative_framing": {
+                "hero": [
+                    "Faith communities and clergy"
+                ],
+                "victim": [
+                    "Immigrants"
+                ],
+                "villain": [
+                    "ICE and immigration enforcement agencies"
+                ]
+            },
+            "query": 5
+        }
+    ],
+    "queries": [
+        "What are the key aspects and controversies surrounding U.S. immigration enforcement policies?",
+        "How have federal immigration agents and the DHS been involved in conflicts with local officials, citizens, and protesters during enforcement operations?",
+        "How has immigration enforcement affected immigrant communities and the people who support them emotionally and spiritually?",
+        "What are the economic impacts of immigration and mass deportation policies on the U.S. labor market and economy?",
+        "Who bears responsibility for the outcomes of U.S. immigration enforcement, including deaths, fraud, and policy failures?",
+        "How do religious and moral values shape the debate over U.S. immigration enforcement and the treatment of immigrants?"
+    ],
+    "rag_responses": [
+        "# Key Aspects and Controversies Surrounding U.S. Immigration Enforcement Policies\n\n## Use of Force and Accountability\n\nOne of the most contentious issues involves the lethal use of force by federal immigration agents. Multiple cases have emerged where official DHS accounts were directly contradicted by video evidence. Body camera footage showed U.S. citizen Ruben Ray Martinez's car was \"stationary or going at a very low rate of speed\" when he was fatally shot, contradicting DHS claims that he had \"intentionally ran over\" an agent [1]. Similarly, Minneapolis residents Ren\u00e9e Good and Alex Pretti were killed by federal agents \u2014 in both cases, the administration labeled them threats, but video footage told a different story: Good appeared to be driving away, and Pretti was holding a phone, not a gun [1][2][4]. These incidents sparked widespread protests and even congressional calls to defund DHS [4].\n\n## Leadership and Institutional Controversies\n\nDHS Secretary Kristi Noem's departure highlighted deep institutional problems. She faced bipartisan fury for labeling shooting victims \"domestic terrorists,\" and roughly 190 co-sponsors expressed support for her impeachment [3]. Republican Senator Thom Tillis called her tenure \"a disaster\" [3]. Beyond enforcement controversies, Noem was criticized for bottlenecking FEMA disaster relief, spending nearly **$300 million in border security funds on a luxury jet fleet**, and $220 million on personal advertisements [3].\n\n## Deportation Numbers and Transparency\n\nThe administration's claimed deportation figures have been questioned by internal data. While DHS touted over 675,000 deportations in 2025, internal ICE data showed only about **35,500 actual deportations** under formal removal orders between October 2025 and late February \u2014 with projections of roughly 85,000 true deportations for fiscal year 2026 [9]. The discrepancy stems from the administration conflating border turnarounds, voluntary departures, and arrests with formal judicial removal orders [9]. Structural obstacles \u2014 including a backlog of over **3 million immigration court cases** and uncooperative foreign governments \u2014 have further hampered mass deportation goals [9].\n\n## Public Safety and Sanctuary Jurisdiction Debates\n\nHigh-profile criminal cases involving undocumented immigrants have intensified the debate over \"sanctuary\" policies. The case of Abdul Jalloh \u2014 an illegal immigrant with over 30 prior arrests who allegedly murdered Stephanie Minter at a Virginia bus stop \u2014 became a flashpoint. DHS blamed Virginia's limited cooperation with ICE, while prosecutors explained that many prior charges collapsed because victims, often homeless individuals, refused to testify [5][6]. Virginia Governor Spanberger responded that DHS should obtain judicial warrants for deportations [5].\n\n## Economic Impact\n\nImmigration's economic role is deeply contested. Immigrants \u2014 nearly 48 million people \u2014 generated approximately **$1.7 trillion in economic activity** and paid $652 billion in taxes in 2023 [10]. However, the administration's crackdown has already weakened job growth in hotels, restaurants, construction, and healthcare [10]. Economists warn that mass deportations could reduce U.S. GDP by as much as **7 percent by 2028**, increase inflation, and shrink the labor force [10]. The administration counters that enforcement is raising wages for American-born workers and creating job opportunities [10], and has pointed to a record single-year drop in murders as a benefit of its policies [7].\n\n## Impact on Communities and State-Federal Tensions\n\nThe deployment of thousands of federal agents in cities like Minneapolis was described by Minnesota Attorney General Keith Ellison as having \"harmed our economy,\" \"scarred our people,\" and undermined fraud enforcement by overwhelming U.S. Attorney resources with immigration-related petitions [2]. Governor Tim Walz argued that the immigration surge actively hampered state-level fraud investigations [2]. Minneapolis Mayor Jacob Frey called on Trump to remove federal agents, while the Trump administration accused local officials of \"inciting insurrection\" [4].\n\n## Faith Communities and Moral Opposition\n\nReligious communities have become a significant voice of opposition. Faith leaders from Catholic, Protestant, and interfaith traditions have organized coalitions, monitored immigration courts, delivered food to homebound immigrants, and publicly condemned enforcement tactics [11][12]. Pope Leo XIV called mass deportations \"a major crisis\" and urged U.S. bishops to be \"stronger in their voice\" [12]. Critics within religious circles have challenged figures like Vice President JD Vance \u2014 himself Catholic \u2014 for promoting policies they argue violate core religious teachings on welcoming strangers and protecting the vulnerable [13].\n\n---\n\nThese controversies collectively reflect a deeply polarized national debate over the balance between border security, rule of law, human rights, economic interests, and the proper limits of federal enforcement power.",
+        "# Federal Immigration Agents, DHS, and Conflicts with Local Officials, Citizens, and Protesters\n\n## Lethal Force and Contradicted Official Accounts\n\nFederal immigration enforcement operations have been marked by several high-profile killings of civilians, with DHS accounts repeatedly contradicted by video evidence. In Minneapolis, ICE agent Jonathan Ross fatally shot Ren\u00e9e Good, with DHS calling her a \"violent rioter\" who \"weaponized her vehicle\" in an \"act of domestic terrorism.\" However, video footage showed Good reversing her car and appearing to drive *away* from the agent [1]. Shortly after, Border Patrol agents shot and killed Alex Pretti, a 37-year-old nurse and American citizen, while the Border Patrol Union claimed he \"brandished\" a weapon. Video evidence showed him holding a phone, not a gun, and New York Times analysis found agents appeared to remove a firearm from near his body *prior* to shooting him [1][4]. In South Padre Island, Texas, ICE agents fatally shot US citizen Ruben Ray Martinez, with DHS claiming he \"intentionally ran over\" an agent. Body camera footage obtained by CBS News showed Martinez's car was \"stationary or going at a very low rate of speed\" when he was shot, with brake lights appearing to be on at the time of the shooting [1].\n\n## Tensions with Local and State Officials\n\nLocal officials in Minneapolis directly clashed with federal enforcement operations. Minneapolis Mayor Jacob Frey called on President Trump to \"act like a leader\" and demanded the removal of federal agents, stating: \"Let's end this operation and our city will come back\" [4]. Minnesota Governor Tim Walz called the operations \"sickening\" and demanded Trump \"pull the thousands of violent, untrained officers out of Minnesota\" [4]. In response, Trump accused the mayor and governor of \"inciting Insurrection\" and the Department of Justice issued subpoenas accusing both officials of obstructing immigration enforcement [4].\n\nAt a Congressional hearing, Governor Walz and Attorney General Keith Ellison argued that the surge of 3,000 federal agents in Minnesota \u2014 dubbed \"Operation Metro Surge\" \u2014 actively *hampered* fraud investigations rather than helping them, leaving U.S. Attorney's Office lawyers \"drowning in immigration-related petitions\" instead of prosecuting fraud cases [2]. Ellison stated the operation \"harmed our economy and scarred our people and dealt a devastating blow to fraud enforcement in Minnesota\" [2].\n\n## Protests, Arrests, and Use of Force Against Demonstrators\n\nFederal enforcement operations triggered widespread protests. In Minneapolis, thousands protested despite freezing conditions, with one protest at Minneapolis-St. Paul International Airport resulting in the arrests of **100 clergy members** for allegedly trespassing [4]. Hundreds of additional clergy traveled to Minneapolis from across the country to protest federal operations and rallied outside the U.S. Capitol [11].\n\nIn Chicago, a Presbyterian pastor, Rev. David Black, was struck by a pepper ball in the head while protesting outside an ICE facility. DHS defended the action, calling the protesters \"agitators\" who blocked an ICE vehicle and impeded operations [12]. When asked about the incident on CNN, Rep. Jim Jordan largely defended the agents, stating, \"ICE agents are doing the Lord's work\" [12].\n\n## Political and Institutional Fallout\n\nThe killings of Good and Pretti generated significant bipartisan political pressure. Approximately 190 congressional co-sponsors expressed support for impeaching DHS Secretary Kristi Noem [3]. Republican Senators Thom Tillis and Lisa Murkowski \u2014 both of whom had voted to confirm Noem \u2014 demanded her resignation, with Tillis calling her tenure \"a disaster\" [3]. Senate Democrats threatened to withhold votes for DHS funding over the agency's conduct, with Senate Minority Leader Chuck Schumer stating Democrats \"will not provide the votes\" on a package if DHS appropriations were included [4]. Noem was ultimately reassigned from DHS, with Trump nominating a replacement, in part due to the public backlash over these enforcement incidents [3].\n\n## Faith Communities and Civil Society Response\n\nConflicts between federal agents and communities extended to religious institutions. Faith leaders across the country mobilized in response to enforcement actions. A coalition of Richmond-area faith leaders condemned \"rhetoric that dehumanizes those made in the image of God\" and policies that \"separate families, sow anxiety among children, and create fear around schools, hospitals, and houses of worship\" [11]. Catholic groups along the southern border and in cities like Los Angeles, El Paso, and Chicago organized rapid-response networks to support immigrants, with some priests celebrating mass online for immigrants too frightened to leave their homes [12].\n\nIn summary, federal immigration enforcement under DHS generated a cascade of conflicts \u2014 including lethal use of force against American citizens, clashes with state and local governments, mass arrests of protesters, and the mobilization of broad civil society opposition \u2014 while DHS's official accounts were frequently undermined by independent video evidence [1][2][3][4][11][12].",
+        "# Immigration Enforcement's Impact on Immigrant Communities and Their Supporters\n\n## Fear and Psychological Trauma in Immigrant Communities\n\nImmigration enforcement has generated profound fear and anxiety among immigrant communities across the United States. Faith leaders in Richmond, Virginia reported that families who have lived in the U.S. for decades are now \"afraid to run everyday errands like going to the grocery store or medical appointments\" [11]. In Southern California, some parish priests noted that \"kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there,\" and some bishops temporarily allowed people to skip Sunday mass because immigrants were too afraid to leave their homes [12]. The San Antonio archbishop described the situation in stark terms: \"In some cases, it's fear. In many cases, it's terror\" [12].\n\nAbout **1.4 million immigrants have left the U.S.** since Trump returned to power, according to Pew Research Center data, representing a dramatic reversal of five decades of population growth [12].\n\n## Spiritual and Emotional Toll on Faith Communities\n\nThe enforcement crackdown has deeply affected religious leaders and communities who support immigrants. A coalition of Richmond-area faith leaders gathered publicly to declare: *\"We are grieved by rhetoric that dehumanizes those made in the image of God\"* and expressed concern about \"policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods\" [11].\n\nNationally, faith groups have mounted significant responses:\n- Catholic nuns and volunteers in Nogales, Mexico serve two meals daily to deported immigrants despite \"rising threats against aid workers\" [12]\n- Dozens of clergy members attend immigration court hearings as witnesses in San Diego [12]\n- Hundreds of clergy traveled to Minneapolis to protest enforcement actions, with **100 clergy members arrested** at a Minneapolis-St. Paul airport protest [4]\n- A Presbyterian pastor was struck by a pepper ball while protesting outside an ICE facility [12]\n\nCatholic social teaching has placed institutional religion in direct tension with enforcement policy. Pope Leo XIV called mass deportations \"a major crisis\" and urged bishops to be \"stronger in their voice,\" while El Paso Bishop Mark Seitz asked pointedly: *\"What has happened to our heart?\"* [12]. Catholic writer Simcha Fisher challenged Vice President JD Vance directly, noting that his rhetoric \u2014 justifying rejection of immigrants simply because they are \"different\" \u2014 represents \"a flagrant insult to our faith,\" citing the Catechism's teaching that prosperous nations are \"obliged...to welcome the foreigner\" [13].\n\n## Violence and Its Ripple Effects\n\nHigh-profile shootings of civilians by federal agents have deepened community trauma. In Minneapolis, federal agents killed nurse Alex Pretti and resident Ren\u00e9e Good in separate incidents, with video evidence contradicting official DHS accounts that both were threats [4][1][3]. Democratic Rep. Robert Garcia held up images of the blood-stained car seat from the Good shooting, declaring: *\"This violence does not make us safer\"* [2]. Minnesota Attorney General Keith Ellison stated that enforcement operations \"scarred our people\" [2].\n\nThe killings triggered massive protests, an \"economic blackout,\" and congressional attempts to defund DHS \u2014 demonstrating how enforcement violence radiates outward to affect entire communities far beyond the immediate targets [4].\n\n## Practical Community Disruption\n\nBeyond fear and violence, enforcement has disrupted the practical fabric of community life. In Coachella, California, parishioners deliver food boxes to immigrants \"too terrified to leave their homes,\" and some priests celebrate mass **online** for immigrants afraid to gather in person [12]. In Minnesota, the immigration surge was described as having \"harmed our economy and...scarred our people\" while paradoxically hampering the state's ability to prosecute fraud [2].\n\nThe cumulative picture drawn across these sources is one of widespread psychological harm, strained spiritual resources, community fragmentation, and a faith community increasingly mobilized \u2014 at real personal risk \u2014 to serve as an emotional and practical lifeline for those caught in the enforcement dragnet [11][12][13].",
+        "# Economic Impacts of Immigration and Mass Deportation Policies on the U.S. Labor Market and Economy\n\n## Immigrants' Contributions to the U.S. Economy\n\nImmigrants play a substantial role in driving U.S. economic activity. Nearly 48 million immigrants generated approximately **$1.7 trillion in economic activity** in 2023 and paid roughly **$652 billion in local, state, and federal taxes**. Even undocumented immigrants held $299 billion in spending power and paid close to $90 billion in taxes that year [10].\n\nImmigrants also constitute a significant share of the workforce \u2014 nearly **31 million immigrant workers** in 2024, representing **19.2% of the U.S. civilian workforce** \u2014 with a labor force participation rate of nearly 67%, higher than the roughly 62% rate for U.S.-born workers [10]. They are disproportionately concentrated in critical sectors such as construction, services, transportation, and agriculture, where 68% of farm laborers were foreign-born in fiscal year 2021\u201322 [10].\n\nBeyond labor, immigrants are major drivers of innovation and entrepreneurship. Despite comprising only 16% of the U.S. inventor workforce between 1990 and 2016, immigrants produced roughly **23% of all patents**. In 2024, **46% of Fortune 500 companies** were founded by immigrants or their children [10].\n\n---\n\n## Economic Risks of Mass Deportation\n\nEconomists and research institutions have raised serious concerns about the long-term economic consequences of mass deportation policies:\n\n- The **Peterson Institute for International Economics** estimated that deporting between 1.3 and 8.3 million undocumented immigrants could **reduce U.S. real GDP by as much as 7%** by 2028, while significantly decreasing employment, increasing inflation, and driving down demand [10].\n- A 2025 study by the nonpartisan **National Foundation for American Policy (NFAP)** warned that enforcement policies could cut **annual economic growth by almost one-third by 2035** [10].\n- Since the start of 2025, job growth in industries heavily reliant on undocumented labor \u2014 including **hotels, restaurants, construction, and health care** \u2014 has been weaker than the rest of the private sector [10].\n- The **number of foreign-born workers declined by more than one million** between January and August 2025, according to Bureau of Labor Statistics data [10].\n- The **Labor Department warned** in October 2025 that Trump's immigration policies risk creating a labor shortage in the agricultural sector [10].\n\nAs NFAP senior fellow Mark Regets noted: *\"Immigrants both create demand for the goods and services produced by U.S.-born workers and work alongside them in ways that increase productivity for both groups\"* [10].\n\n---\n\n## The Administration's Counterarguments\n\nThe Trump administration and some supporters argue that restricting immigration benefits American workers:\n\n- **Vice President JD Vance** has argued that limiting immigration will raise wages and create more job opportunities for U.S.-born workers [10].\n- The White House has claimed that between January and December 2025, **two million native-born Americans gained employment** while 662,000 foreign-born workers lost employment [7].\n- The administration also claims that blue-collar wages in trucking and construction \u2014 industries with high numbers of foreign-born workers \u2014 have seen **large increases in pay**, with real wages for American workers on track to rise **4.2%** in Trump's first full year [7].\n- Additionally, the administration points to **housing price declines** in 14 of the top 20 metro areas with the largest undocumented immigrant populations as evidence that mass deportations are improving affordability [7].\n\n---\n\n## Regional Economic Disruptions\n\nThe immigration crackdown has also had measurable regional impacts. In Minnesota, Attorney General Keith Ellison stated that federal immigration enforcement operations **\"harmed our economy\"** and disrupted fraud enforcement efforts, leaving prosecutors overwhelmed with immigration-related cases rather than financial crimes [2]. The state faces potential cuts to health care for low-income families due to withheld Medicaid funding [2].\n\n---\n\n## The Broader Outlook\n\nEconomic analyses **widely suggest** that the administration's mass deportation and immigration restriction policies will have a **negative effect on long-term U.S. economic growth**, even if some short-term labor market shifts benefit certain native-born workers [10]. The actual scale of deportations also remains contested \u2014 internal ICE data suggests that true deportations (under formal removal orders) are far lower than publicly touted figures, with ERO on pace to deport only around **85,000 individuals** by the end of fiscal year 2026, compared to the administration's headline figure of 675,000 \u2014 which includes border turnarounds and voluntary departures [9].\n\nIn sum, the economic picture is deeply contested, with the administration emphasizing near-term wage and employment gains for native-born workers, while independent economists warn of significant long-term GDP contraction, labor shortages, and reduced innovation [7][10].",
+        "# Responsibility for U.S. Immigration Enforcement Outcomes\n\nResponsibility for the outcomes of U.S. immigration enforcement is distributed \u2014 and contested \u2014 across multiple actors, including federal agencies, state governments, and political leadership.\n\n## Federal Agencies and the Administration\n\nThe Department of Homeland Security (DHS) and its sub-agencies bear direct operational responsibility. In several high-profile cases, DHS has been accused of misrepresenting lethal incidents. Body camera footage contradicted DHS's official accounts of the killings of U.S. citizens Ruben Ray Martinez, Ren\u00e9e Good, and Alex Pretti, all of whom died during immigration enforcement operations [1][4]. DHS Secretary Kristi Noem, who oversaw \"a series of militarized immigration surges in major U.S. cities,\" ultimately departed amid bipartisan backlash, with Republican senators calling her tenure \"a disaster\" [3]. As the mother of one victim noted, \"something needs to be changed in that department as far as the pattern of violence or abuse and impunity\" [1].\n\n## State and Local Governments\n\nState officials also face scrutiny. Republicans accused Minnesota Governor Tim Walz of failing to adequately combat Medicaid fraud, while Walz and Attorney General Keith Ellison argued that Trump's immigration surge \u2014 deploying 3,000 federal agents \u2014 actually *hampered* fraud investigations by overwhelming prosecutors with immigration-related petitions [2]. In Virginia, critics blamed local prosecutors and Democratic Governor Abigail Spanberger's executive order limiting ICE cooperation for the release of an individual who allegedly committed murder despite over 30 prior arrests [5][6].\n\n## Policy Design and Political Leadership\n\nBroader policy failures are attributed to the administration's enforcement design. Internal data revealed that actual deportations under formal removal orders were far lower than publicly touted figures, suggesting inflated claims masking systemic bottlenecks including immigration court backlogs exceeding three million cases and uncooperative foreign governments [9]. Economists warn that mass deportations risk long-term GDP losses of up to 7% and significant labor shortages [10].\n\n## A Shared but Disputed Burden\n\nUltimately, responsibility is **shared but deeply disputed**: the federal government for lethal enforcement and misleading public accounts [1][3][4]; state governments for cooperation failures or obstruction depending on one's viewpoint [2][5][6]; and prior administrations for creating conditions \u2014 such as large undocumented populations \u2014 that current policy attempts to address [9]. Faith communities and civil society groups argue that all levels of government have failed in their moral obligations to immigrants [11][12].",
+        "# Religious and Moral Values in the U.S. Immigration Debate\n\nReligious and moral frameworks play a significant and multifaceted role in shaping debates over U.S. immigration enforcement, influencing both critics and supporters of current policies.\n\n## Faith Communities as Advocates for Immigrant Rights\n\nFaith leaders across the country have emerged as vocal opponents of aggressive enforcement, grounding their opposition in theological principles. In Richmond, Virginia, a coalition of clergy declared, \"We are grieved by rhetoric that dehumanizes those made in the image of God,\" expressing concern over \"policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods\" [11]. Catholic priest Rev. Jim Arsenault invoked scripture directly: \"Your lives, your labor, your families, and your faith enrich our church and strengthen our community. When one member of the body suffers, we all suffer\" [11].\n\nNationally, Catholic organizations have been especially active. At the Kino Border Initiative in Nogales, Mexico, nuns and volunteers serve deported immigrants daily, and Pope Leo XIV has called mass deportations \"a major crisis,\" urging bishops to be \"stronger in their voice\" and insisting immigrants be treated \"with dignity and respect\" [12]. Hundreds of clergy traveled to Minneapolis to protest ICE enforcement actions, with some arrested outside a federal building [4][11].\n\n## The Catholic Catechism vs. Administration Policy\n\nA sharp theological dispute has emerged within Catholicism itself. Critics of Vice President JD Vance \u2014 himself a Catholic \u2014 argue his rhetoric directly contradicts Church teaching. The Catechism of the Catholic Church states that prosperous nations \"are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin\" [13]. One Catholic writer argued that Vance's statements \u2014 that Americans are entitled to reject neighbors simply because they are culturally different \u2014 represent \"a flagrant insult to our faith,\" noting that \"Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless\" [13].\n\nConversely, some Catholic figures, notably Vance himself, have supported the crackdown, and Rep. Jim Jordan defended ICE agents by saying they are \"doing the Lord's work\" [12]. This reflects a genuine split within religious communities over how faith obligations interact with national sovereignty and rule of law.\n\n## Moral Tension Between Law, Justice, and Mercy\n\nFaith leaders have tried to navigate this tension carefully. The Richmond coalition acknowledged that \"respect for rule of law is essential to a healthy society\" but insisted it \"should be applied with justice, mercy, proportionality and due process\" [11]. Pastor Larry Cochran concluded: \"We are convinced that none of us is permitted to respond with silence, cruelty, or apathy\" [11].\n\nEl Paso Bishop Mark Seitz, chair of the U.S. Conference of Catholic Bishops' migration committee, framed the issue in terms of founding national values: \"We were founded on these principles and our Lady of Liberty has stood where so many of our immigrants have entered as a sign of hope, as a place of justice\" [12]. San Antonio Archbishop Gustavo Garc\u00eda-Siller described the atmosphere in immigrant communities as moving from \"fear\" to \"terror\" [12].\n\n## Moral Outrage Over Enforcement Violence\n\nThe killing of U.S. citizens during immigration enforcement operations has also generated moral and civic condemnation. Democratic Rep. Robert Garcia held up images of detained children and a blood-stained car seat, declaring, \"This violence does not make us safer\" [2]. The mother of slain U.S. citizen Ruben Ray Martinez \u2014 who voted for President Trump \u2014 called for \"something to be changed in that department as far as the pattern of violence or abuse and impunity\" [1].\n\n## The Counterargument: Moral Duty to Protect Citizens\n\nOn the other side, supporters of enforcement invoke a moral obligation to protect American citizens. Following the murder of Stephanie Minter, allegedly by an undocumented immigrant with over 30 prior arrests, conservative commentators argued: \"We are sacrificing American lives for the sake of coddling the most depraved, useless dirtbags on the planet\" [5]. DHS framed cooperation with ICE as a public safety imperative, calling it necessary \"for the safety of the American people\" [5][6]. The Trump administration has also argued that mass deportations represent a moral fulfillment of promises to citizens, citing drops in crime rates and improvements in wages [7].\n\n## Conclusion\n\nThe immigration debate is thus deeply moralized from multiple directions: faith communities draw on scripture and Catholic social teaching to demand humane treatment [11][12][13], while enforcement advocates invoke obligations to citizen safety and rule of law [5][6][7]. The result is a genuine moral conflict, with both sides claiming ethical high ground, making immigration one of the most values-laden policy debates in contemporary American politics."
+    ]
+}

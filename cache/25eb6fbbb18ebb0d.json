@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The Trump administration has pointed fingers at Democratic state leaders, with Trump accusing Minnesota Gov. Tim Walz and Mayor Jacob Frey of 'inciting insurrection' and obstructing federal operations.",
+        "Conversely, Walz and Attorney General Keith Ellison argued that the federal immigration surge actually hampered state fraud investigations by overwhelming the U.S. Attorney's Office with 'immigration-related petitions' instead of prosecuting fraud.",
+        "Her tenure was widely criticized \u2014 even by Republicans \u2014 with Sen. Thom Tillis calling it 'a disaster'."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Economists warn that mass deportations could reduce U.S. GDP by as much as 7 percent by 2028 and create long-term labor shortages.",
+        "Trump has championed mass deportations as a signature policy, overseeing 'an unprecedented hiring surge in ICE agents and securing billions in additional funding' for enforcement agencies.",
+        "Critics including faith leaders, economists, and local officials argue that the human and economic costs of enforcement failures also constitute a form of accountability."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "She oversaw 'a series of militarized immigration surges in major U.S. cities' and presided over operations that resulted in the fatal shootings of Minneapolis residents Renee Good and Alex Pretti.",
+        "Faith communities have decried the 'climate of fear' and family separations resulting from enforcement actions."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Responsibility for the successes and failures of Trump's immigration enforcement efforts is distributed across multiple actors, reflecting a complex web of political, institutional, and operational dynamics.",
+        "In sum, while Trump bears ultimate political responsibility, failures are shared across DHS leadership, structural bottlenecks, and foreign governments, while successes at the border are claimed primarily by the administration itself.",
+        "Beyond personnel, systemic challenges share responsibility for enforcement shortfalls. The immigration court backlog 'exceeded well over three million as of December,' and recalcitrant foreign governments \u2014 particularly Venezuela \u2014 have historically refused to accept deportees, undermining the process."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Trump Administration"
+    ],
+    "victim": [
+      "immigrants/migrants",
+      "Minneapolis residents (Renee Good and Alex Pretti)"
+    ],
+    "villian": [
+      "DHS Leadership (Kristi Noem)"
+    ]
+  },
+  "query": 5
+}

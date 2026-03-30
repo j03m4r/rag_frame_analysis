@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Hundreds of clergy traveled to Minneapolis to protest federal immigration enforcement actions and rallied outside the U.S. Capitol with calls to 'dismantle ICE' \u2013 reflecting a broader national response among religious communities.",
+        "We are troubled by policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods.",
+        "A coalition of local faith leaders came together Friday on the steps of Richmond's historic First Baptist Church to speak out as immigration enforcement continues to affect local communities."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Widmer said stories were shared of families who, despite living in the United States for decades, are now afraid to run everyday errands like going to the grocery store or medical appointments.",
+        "We are troubled by policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods.",
+        "In a recent closed meeting, 450 Christian leaders from over 60 congregations heard directly from immigrants about the challenges they are facing as a result of detentions, deportations and family separations."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "We are grieved by rhetoric that dehumanizes those made in the image of God.",
+        "The Rev. Jim Arsenault of St. Elizabeth's Catholic Church addressed immigrant communities directly with a message rooted in scripture: 'Your lives, your labor, your families, and your faith enrich our church and strengthen our community. When one member of the body suffers, we all suffer.'",
+        "Standing side by side and delivering a unified statement, the clergy members said this is a moment that calls for moral seriousness, not indifference."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "The group of leaders also acknowledged that America's immigration system is in need of comprehensive reform.",
+        "The coalition said that while respect for rule of law is essential to a healthy society, it should be applied with 'justice, mercy, proportionality and due process.'",
+        "Rev. Larry Cochran said: 'We are convinced that none of us is permitted to respond with silence, cruelty, or apathy.'"
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Richmond-area faith leaders"
+    ],
+    "victim": [
+      "immigrants"
+    ],
+    "villian": [
+      "federal immigration enforcement"
+    ]
+  },
+  "article_title": "Richmond-area faith leaders speak out on federal immigration enforcement"
+}

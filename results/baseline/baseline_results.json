@@ -1,0 +1,36 @@
+{
+   "conflict":{
+      "evidence":[
+         "The administration frames this as a success; critics point out it came paired with sweeping due process restrictions.",
+         "The administration argues these are overdue security measures restoring integrity to a broken system. Opponents argue the scale, speed, and targeting of enforcement has moved well beyond legality into what amounts to mass punishment without adequate judicial oversight.",
+         "States like Colorado, New Mexico, and Maryland have pushed back with laws limiting data-sharing and requiring federal court warrants for entry into government facilities."
+      ],
+      "present":true
+   },
+   "economic":{
+      "evidence":[
+         
+      ],
+      "present":false
+   },
+   "human_interest":{
+      "evidence":[
+         
+      ],
+      "present":false
+   },
+   "morality":{
+      "evidence":[
+         
+      ],
+      "present":false
+   },
+   "responsibility":{
+      "evidence":[
+         "Critics argue the administration is primarily using detention to pressure people into abandoning their legal cases, rather than targeting serious public safety threats.",
+         "Recent memos allow ICE to enter homes using administrative rather than judicial warrants — a practice widely criticized by constitutional lawyers.",
+         "States like Colorado, New Mexico, and Maryland have pushed back with laws limiting data-sharing and requiring federal court warrants for entry into government facilities."
+      ],
+      "present":true
+   }
+}

@@ -1,0 +1,50 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "JD Vance's immigration comments are an insult to our Catholic faith",
+        "The entire immigration policy of the Trump administration says the same thing: Be rich, be white, be like everyone else, or go away.",
+        "This is such a flagrant insult to our faith that I don't even know how to explain it."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "When I was growing up, we lived next door to a group home for adults with disabilities. I hated living next to them. They were just so different. I was 6 years old.",
+        "One year, we opened the door and old Bill walked in. My parents looked at each other. Then they did the only thing that seemed reasonable: They offered him Elijah's cup.",
+        "That was the day Elijah came to our house, and you cannot convince me otherwise. Imagine if we hadn't opened the door?"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "This is such a flagrant insult to our faith that I don't even know how to explain it.",
+        "Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless.",
+        "It is cowardly, it is selfish, it is un-American, it is un-Christian to reject people just because they are different."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "This administration wants to set itself up as somehow Christian. Let them, then, do the bare minimum: Welcome the stranger.",
+        "The Catechism of the Catholic Church teaches that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'"
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [],
+    "victim": [
+      "immigrants"
+    ],
+    "villian": [
+      "JD Vance",
+      "Trump administration"
+    ]
+  },
+  "article_title": "JD Vance\u2019s immigration comments are an insult to our Catholic faith"
+}

@@ -1,0 +1,54 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Detention of Legal Residents and Vulnerable IndividualsThe crackdown has ensnared people with legal status.",
+        "The teenager recalled My little sister's crying my little brother's scared.",
+        "Constant Fear and Social IsolationPerhaps the most pervasive impact has been the climate of fear that has forced many immigrant families into near total isolation."
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "Psychological and Physical Health ConsequencesThe cumulative toll on mental health has been documented by advocates and researchers alike.",
+        "Detention of Legal Residents and Vulnerable IndividualsThe crackdown has ensnared people with legal status.",
+        "Constant Fear and Social IsolationPerhaps the most pervasive impact has been the climate of fear that has forced many immigrant families into near total isolation."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "The teenager recalled My little sister's crying my little brother's scared.",
+        "Constant Fear and Social IsolationPerhaps the most pervasive impact has been the climate of fear that has forced many immigrant families into near total isolation.",
+        "Psychological and Physical Health ConsequencesThe cumulative toll on mental health has been documented by advocates and researchers alike."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "A Latino advocacy group director on Long Island described the raids as sending shock waves across the community noting that neither detained vineyard worker had a criminal record 12.Faith communities have also mobilized in response with over 250 local Christian clergy signing a letter denouncing immigration enforcement tactics titled Jesus is Being Teargassed at Broadview 2.",
+        "Constant Fear and Social IsolationPerhaps the most pervasive impact has been the climate of fear that has forced many immigrant families into near total isolation.",
+        "Psychological and Physical Health ConsequencesThe cumulative toll on mental health has been documented by advocates and researchers alike."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Psychological and Physical Health ConsequencesThe cumulative toll on mental health has been documented by advocates and researchers alike.",
+        "Detention of Legal Residents and Vulnerable IndividualsThe crackdown has ensnared people with legal status.",
+        "Children are having nightmares and withdrawing socially."
+      ],
+      "present": false
+    }
+  },
+  "narrative_framing": {
+    "hero": [],
+    "victim": [
+      "immigrant families"
+    ],
+    "villian": [
+      "Trump administration"
+    ]
+  },
+  "query": 2
+}

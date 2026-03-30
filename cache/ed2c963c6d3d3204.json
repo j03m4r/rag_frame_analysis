@@ -1,0 +1,57 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Sotomayor asked.",
+        "Like what is it if its not crossing the physical border?",
+        "What is the magic thing or the dispositive thing that were looking for where we say Ah now that person we can say arrives in the United States?The liberal justice Sonia Sotomayor posed sharp questions to Suri about whether the metering policy violates the letter or spirit of federal law protecting refugees.These are people who come to the line theres an agent standing at the line thats open to everybody else except refugees correct?"
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "Like what is it if its not crossing the physical border?",
+        "The policy allowed US immigration officials to stop asylum seekers at the border and indefinitely decline to process their claims.The Trump administration has appealed a lower courts finding that the policy violated federal law.",
+        "Theyre letting in workers with permits to come in to work."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "What is the magic thing or the dispositive thing that were looking for where we say Ah now that person we can say arrives in the United States?The liberal justice Sonia Sotomayor posed sharp questions to Suri about whether the metering policy violates the letter or spirit of federal law protecting refugees.These are people who come to the line theres an agent standing at the line thats open to everybody else except refugees correct?",
+        "US supreme court appears sympathetic to Trump administration in asylum caseUS supreme court justices indicated sympathy on Tuesday toward Donald Trumps administration in its defense of the governments authority to turn away asylum seekers when officials deem US Mexico border crossings too overburdened to handle additional claims.The legal dispute centers on a policy called metering that the Republican presidents administration may seek to revive after it was dropped by Trumps Democratic predecessor Joe Biden in 2021.",
+        "Theyre arriving."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "US supreme court appears sympathetic to Trump administration in asylum caseUS supreme court justices indicated sympathy on Tuesday toward Donald Trumps administration in its defense of the governments authority to turn away asylum seekers when officials deem US Mexico border crossings too overburdened to handle additional claims.The legal dispute centers on a policy called metering that the Republican presidents administration may seek to revive after it was dropped by Trumps Democratic predecessor Joe Biden in 2021.",
+        "Sotomayor asked.",
+        "The policy allowed US immigration officials to stop asylum seekers at the border and indefinitely decline to process their claims.The Trump administration has appealed a lower courts finding that the policy violated federal law."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "What is the magic thing or the dispositive thing that were looking for where we say Ah now that person we can say arrives in the United States?The liberal justice Sonia Sotomayor posed sharp questions to Suri about whether the metering policy violates the letter or spirit of federal law protecting refugees.These are people who come to the line theres an agent standing at the line thats open to everybody else except refugees correct?",
+        "Like what is it if its not crossing the physical border?",
+        "But theyve arrived in the United States."
+      ],
+      "present": false
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Al Otro Lado"
+    ],
+    "victim": [
+      "asylum seekers"
+    ],
+    "villian": [
+      "Trump administration"
+    ]
+  },
+  "article_title": "US supreme court appears sympathetic to Trump administration in asylum case",
+  "article_content": "US supreme court justices indicated sympathy on Tuesday toward Donald Trump\u2019s administration in its defense of the government\u2019s authority to turn away asylum seekers when officials deem US-Mexico border crossings too overburdened to handle additional claims.\nThe legal dispute centers on a policy called \u201cmetering\u201d that the Republican president\u2019s administration may seek to revive after it was dropped by Trump\u2019s Democratic predecessor Joe Biden in 2021. The policy allowed US immigration officials to stop asylum seekers at the border and indefinitely decline to process their claims.\nThe Trump administration has appealed a lower court\u2019s finding that the policy violated federal law. This policy is separate from the sweeping ban on asylum at the border that Trump announced after returning to the presidency last year. That policy also faces an ongoing legal challenge.\nUnder US law, a migrant who \u201carrives in the United States\u201d may apply for asylum and must be inspected by a federal immigration official. The narrow legal issue in the current case is whether asylum seekers who are stopped on the Mexican side of the border have arrived in the United States.\nVivek Suri, the justice department lawyer who argued on behalf of the Trump administration, told the justices during the arguments, \u201cYou can\u2019t arrive in the United States while you\u2019re still standing in Mexico. That should be the end of this case.\u201c\nThe conservative justice Amy Coney Barrett pressed Kelsi Corkran, the lawyer who argued on behalf of the immigrant advocacy group Al Otro Lado, on what it means to arrive in the United States.\n\u201cHow close do you have to be to the border?\u201d Barrett asked. \u201cCould you say that someone arrives in the United States if they\u2019re at a portion of the border that does not have a port of entry? Like, what is it, if it\u2019s not crossing the physical border? What is the magic thing, or the dispositive thing, that we\u2019re looking for where we say, \u2018Ah, now that person, we can say, arrives in the United States?\u2019\u201d\nThe liberal justice Sonia Sotomayor posed sharp questions to Suri about whether the metering policy violates the letter or spirit of federal law protecting refugees.\n\u201cThese are people who come to the line, there\u2019s an agent standing at the line that\u2019s open to everybody else, except refugees, correct?\u201d Sotomayor asked. \u201cThey\u2019re letting in workers with permits to come in to work. They\u2019re letting everybody else in. But they\u2019re not permitting the people who come to the line \u2013 to the door and knock on it [who] want to claim refugee status.\n\u201cSomeone on a plane arriving to land in LaGuardia may not have put their foot on US land. But they\u2019ve arrived in the United States. They\u2019re arriving. They\u2019re knocking on the door,\u201d Sotomayor added, referring to a New York City airport.\nUS immigration officials began turning away asylum seekers at the border in 2016 under the Democratic former president Barack Obama amid a migrant surge. The metering policy was formalized in 2018 during Trump\u2019s first term in office, with border officials authorized to decline processing asylum claims when the government decides it is unable to handle additional applications. Biden rescinded the policy during the first year of his presidency.\nThe Trump administration in court papers told the supreme court it probably would resume the use of metering \u201cas soon as changed border conditions warranted that step\u201d, without providing specifics.\nAl Otro Lado, which provides legal and humanitarian support to migrants, launched the long-running legal challenge in 2017. The San Francisco-based ninth US circuit court of appeals in 2024 ruled that federal law requires border agents to inspect all asylum seekers who \u201carrive\u201d at designated border crossings, even if they have not yet crossed into the United States, and the metering policy violated that obligation.\nA ruling in the case is expected by the end of June.\nThe supreme court has backed Trump in several immigration-related rulings issued on an emergency basis since his return to the presidency, including allowing him to deport migrants to countries other than their own and to revoke temporary legal status for hundreds of thousands of Venezuelan migrants in the United States."
+}

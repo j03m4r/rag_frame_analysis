@@ -1,0 +1,48 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "While Democrats fight to sabotage these gains and drag us back to the chaos of open borders, skyrocketing costs, and rampant crime, President Trump remains unwavering in his commitment to delivering the security, prosperity, and safety the American people deserve.",
+        "The results are especially pronounced in Democrat-run jurisdictions where the Trump Administration conducted mass deportation and enhanced law enforcement operations.",
+        "the three metro areas that saw modest price increases are all so-called 'sanctuary cities.'"
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Mass deportations = lower housing costs. In 14 of the top 20 metro areas with the largest illegal migrant populations, home list prices declined year-over-year in December.",
+        "American truckers and construction workers \u2014 both industries with high numbers of foreign-born workers \u2014 have reported large increases in pay as blue-collar wages grow at the fastest clip in decades.",
+        "Overall, real wages for American workers are on track to rise 4.2% in President Trump's first full year."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [],
+      "present": false
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "In just one year, President Donald J. Trump's ironclad commitment to securing our border and enforcing our nation's laws is liberating Americans from the crushing burden of unchecked illegal immigration.",
+        "Through mass deportations, the Trump Administration is freeing up resources, revitalizing opportunity, and restoring safety \u2014 delivering tangible results that put American citizens first.",
+        "While Democrats fight to sabotage these gains and drag us back to the chaos of open borders, skyrocketing costs, and rampant crime, President Trump remains unwavering in his commitment to delivering the security, prosperity, and safety the American people deserve."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Donald J. Trump"
+    ],
+    "victim": [
+      "Americans"
+    ],
+    "villian": [
+      "illegal immigrants"
+    ]
+  },
+  "article_title": "Mass Deportations Are Improving Americans\u2019 Quality of Life "
+}

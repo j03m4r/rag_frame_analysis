@@ -1,0 +1,64 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "She faced bipartisan fury for labeling shooting victims 'domestic terrorists,' and roughly 190 co-sponsors expressed support for her impeachment.",
+        "Minneapolis Mayor Jacob Frey called on Trump to remove federal agents, while the Trump administration accused local officials of 'inciting insurrection'.",
+        "These controversies collectively reflect a deeply polarized national debate over the balance between border security, rule of law, human rights, economic interests, and the proper limits of federal enforcement power."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Immigrants \u2014 nearly 48 million people \u2014 generated approximately $1.7 trillion in economic activity and paid $652 billion in taxes in 2023.",
+        "Economists warn that mass deportations could reduce U.S. GDP by as much as 7 percent by 2028, increase inflation, and shrink the labor force.",
+        "However, the administration's crackdown has already weakened job growth in hotels, restaurants, construction, and healthcare."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Body camera footage showed U.S. citizen Ruben Ray Martinez's car was 'stationary or going at a very low rate of speed' when he was fatally shot, contradicting DHS claims that he had 'intentionally ran over' an agent.",
+        "Similarly, Minneapolis residents Ren\u00e9e Good and Alex Pretti were killed by federal agents \u2014 in both cases, the administration labeled them threats, but video footage told a different story: Good appeared to be driving away, and Pretti was holding a phone, not a gun.",
+        "The deployment of thousands of federal agents in cities like Minneapolis was described by Minnesota Attorney General Keith Ellison as having 'harmed our economy,' 'scarred our people,' and undermined fraud enforcement."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "Religious communities have become a significant voice of opposition. Faith leaders from Catholic, Protestant, and interfaith traditions have organized coalitions, monitored immigration courts, delivered food to homebound immigrants, and publicly condemned enforcement tactics.",
+        "Pope Leo XIV called mass deportations 'a major crisis' and urged U.S. bishops to be 'stronger in their voice'.",
+        "Critics within religious circles have challenged figures like Vice President JD Vance \u2014 himself Catholic \u2014 for promoting policies they argue violate core religious teachings on welcoming strangers and protecting the vulnerable."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Virginia Governor Spanberger responded that DHS should obtain judicial warrants for deportations.",
+        "The discrepancy stems from the administration conflating border turnarounds, voluntary departures, and arrests with formal judicial removal orders.",
+        "Structural obstacles including a backlog of over 3 million immigration court cases and uncooperative foreign governments have further hampered mass deportation goals."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Virginia Governor Spanberger",
+      "faith communities",
+      "Minnesota Attorney General Keith Ellison"
+    ],
+    "victim": [
+      "immigrants",
+      "Ruben Ray Martinez",
+      "Ren\u00e9e Good",
+      "Alex Pretti",
+      "Stephanie Minter"
+    ],
+    "villian": [
+      "DHS",
+      "Kristi Noem",
+      "Abdul Jalloh"
+    ]
+  },
+  "query": 0
+}

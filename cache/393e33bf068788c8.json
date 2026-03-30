@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Minneapolis Mayor Jacob Frey demanding that Trump 'act like a leader' and calling on federal agents to leave the city, while Governor Tim Walz stated 'Minnesota has had it' and demanded Trump 'pull the thousands of violent, untrained officers out of Minnesota'",
+        "Trump responded by accusing local officials of 'inciting Insurrection' and defending his agents",
+        "Federal subpoenas were issued by the DOJ accusing Walz and Frey of obstructing immigration enforcement investigations, and Minnesota sued the federal government to stop the withholding of $243 million in Medicaid funding"
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Minnesota sued the federal government to stop the withholding of $243 million in Medicaid funding that the Trump administration threatened to freeze over fraud concerns",
+        "Ellison noted his office had won 300 Medicaid fraud convictions and recovered $80 million for taxpayers despite these obstacles",
+        "Lawyers in the U.S. Attorney's Office were left 'drowning in immigration-related petitions' instead of prosecuting fraud cases"
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Renee Good was shot by an ICE officer during an altercation, and nurse Alex Pretti was shot and killed while reportedly filming enforcement operations",
+        "Hundreds of clergy traveled to Minneapolis to protest, and coalitions of religious leaders across the country spoke out against enforcement tactics they described as creating 'fear around schools, hospitals, houses of worship and neighborhoods'",
+        "One protest at Minneapolis-St. Paul International Airport resulted in the arrests of 100 clergy members"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "Hundreds of clergy traveled to Minneapolis to protest, and coalitions of religious leaders across the country spoke out against enforcement tactics they described as creating 'fear around schools, hospitals, houses of worship and neighborhoods'",
+        "One protest at Minneapolis-St. Paul International Airport resulted in the arrests of 100 clergy members",
+        "Faith leaders and community groups organized resistance, framing the enforcement actions in moral and ethical terms"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Attorney General Keith Ellison stated that 'Operation Metro Surge did nothing to address fraud in our state' and that lawyers in the U.S. Attorney's Office were left 'drowning in immigration-related petitions' instead of prosecuting fraud cases",
+        "The conflicts reflect a fundamental disagreement: federal officials framed enforcement as necessary for public safety and fraud prevention, while state and local officials argued it was causing harm, undermining cooperative law enforcement, and damaging their communities",
+        "Federal subpoenas were issued by the DOJ accusing Walz and Frey of obstructing immigration enforcement investigations"
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Minnesota state and local officials"
+    ],
+    "victim": [
+      "Minnesota residents and communities"
+    ],
+    "villian": [
+      "Trump administration/federal agents"
+    ]
+  },
+  "query": 1
+}

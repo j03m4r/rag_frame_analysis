@@ -1,0 +1,48 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "At first blush the Trump administration's deportation numbers reflect an unparalleled effort to remove vast numbers of illegal immigrants. However, internal data \u2014 and the delayed release of the administration's annual enforcement report \u2014 tells a more complicated story.",
+        "The Trump administration in January celebrated the execution of more than 675,000 deportations throughout 2025, but immigration hardliners that spoke to the DCNF say this figure does not convey the entire story.",
+        "However the back end of the enforcement system such as cooperation from foreign governments and immigration court capacity have proven to be major obstacles for mass deportation."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "The United States is offering illegal aliens $2,600 and a free flight to self-deport now.",
+        "President Donald Trump has made immigration enforcement a top policy priority since re-entering the White House, overseeing an unprecedented hiring surge in ICE agents and securing billions in additional funding within the Big Beautiful Bill for enforcement agencies.",
+        "Texas GOP Rep. Chip and other Republicans have pushed to solve the issue by withholding aid from all recalcitrant countries."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [],
+      "present": false
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Texas GOP Rep. Chip and other Republicans have pushed to solve the issue by withholding aid from all recalcitrant countries, or in other situations, the administration has deported illegal migrants to third countries.",
+        "But the president must now bring that same level of resolve to carrying out his promise to deport the millions of people who are still in this country illegally, encouraging the administration to vigorously conduct worksite enforcement, target visa overstays and crack down on illegal migrants with outstanding orders of removal.",
+        "The group wants Trump to deport one million illegal migrants by the end of 2026 and says it will soon be releasing a comprehensive playbook on how to achieve this."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Trump administration"
+    ],
+    "victim": [
+      "American people"
+    ],
+    "villian": [
+      "illegal immigrants"
+    ]
+  },
+  "article_title": "SCOOP: There\u2019s More Than Meets The Eye In Noem DHS\u2019 Deportation Figures"
+}

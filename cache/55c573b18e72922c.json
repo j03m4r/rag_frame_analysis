@@ -1,0 +1,54 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Republicans on the House Oversight Committee accused Gov. Tim Walz and Attorney General Keith Ellison of stalling to fight fraud in government programs, saying they put politics ahead of rooting out abuse instead of pausing payments.",
+        "Republican Rep. Clay Higgins of Louisiana called on Ellison to resign, accusing him of not leading investigations into criminal fraud activity.",
+        "Comer on Wednesday accused Walz of not stopping Medicaid payments despite knowledge of fraud because he 'didn't want to rock the boat.'"
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Last week, Vice President JD Vance said the Trump administration would 'temporarily halt' $243 million in Medicaid funding to Minnesota over fraud concerns, as part of what he described as an aggressive crackdown on misuse of public funds.",
+        "Minnesota sued on Monday to stop the money from being withheld, warning it may have to cut health care for low-income families if the money is held back.",
+        "Ellison said his office has 'punched above our weight' in winning 300 Medicaid fraud convictions and recovering more than $80 million for taxpayers."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Democratic Rep. Robert Garcia of California, as part of the effort to focus the hearing on the immigration crackdown, held up images of children detained by federal officers and a picture of the blood-stained car seat of Renee Good who was killed by an officer.",
+        "Federal officers also killed another Minnesota resident, Alex Pretti, who had been filming enforcement operations.",
+        "'Operation Metro Surge did nothing to address fraud in our state,' Ellison said. 'It harmed our economy and it scarred our people and it dealt a devastating blow to fraud enforcement in Minnesota.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Republicans on the House Oversight Committee accused Gov. Tim Walz and Attorney General Keith Ellison of stalling to fight fraud in government programs, saying they put politics ahead of rooting out abuse instead of pausing payments.",
+        "Walz said he wanted to work with the federal government to help with fraud investigations, but the immigration surge was making that more difficult.",
+        "Ellison noted the series of resignations of lawyers in the U.S. Attorney's Office in Minnesota, leaving those who remain 'drowning in immigration-related petitions' instead of prosecuting fraud."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Tim Walz",
+      "Keith Ellison"
+    ],
+    "victim": [
+      "Minnesota residents",
+      "American taxpayers"
+    ],
+    "villian": [
+      "Donald Trump"
+    ]
+  },
+  "article_title": "Gov. Tim Walz tells a House panel the Trump immigration crackdown hampered Minnesota\u2019s fraud fight"
+}

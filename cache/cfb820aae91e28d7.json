@@ -1,0 +1,50 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Body camera footage newly obtained by CBS News shows the moments leading up to and after an Immigration and Customs Enforcement agent fatally shot US citizen Ruben Ray Martinez in March 2025 and contradicts the Department of Homeland Security's account of the killing.",
+        "DHS claimed that Martinez 'intentionally ran over' an agent 'resulting in him being on the hood of the vehicle,' adding that a separate agent 'fired defensive shots to protect himself, his fellow agents, and the general public.' The footage released by CBS on Friday tells a different story.",
+        "After ICE agent Jonathan Ross shot and killed Good, then-DHS spokesperson Tricia McLaughlin said that the 37 year old was a 'violent rioter' who had 'weaponized her vehicle' in an 'act of domestic terrorism.' Video footage from several angles soon circulated and directly opposed that official statement from the Trump administration."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Rachel Reyes, Martinez's mom, told CBS News recently in her first televised interview that she is 'not a mother in denial. I'm just a mother in doubt, because I know my son and I know he's not a threat.'",
+        "Martinez was 23 when an agent killed him in his car last spring in South Padre Island, Texas.",
+        "Martinez's friend, who was also in the car at the time, had previously told interrogators that Martinez may have been nervous at the scene since the pair had hung out with friends and had food and drinks that evening."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Reyes, who voted for President Donald Trump in 2024, said, 'I don't blame President Trump for the death of my son, 'cause he wasn't the one who pulled the trigger.'",
+        "'But,' she added, 'I do think that something needs to be changed in that department as far as the pattern of violence or abuse and impunity.'",
+        "The newly released body camera footage is the latest chance for viewers to fact-check DHS's claims about its reasoning for killing a US citizen."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "CBS News"
+    ],
+    "victim": [
+      "Ruben Ray Martinez",
+      "Ren\u00e9e Good",
+      "Alex Pretti"
+    ],
+    "villian": [
+      "DHS/ICE"
+    ]
+  },
+  "article_title": "New Footage Yet Again Contradicts DHS Claims About Its Killing of a US Citizen"
+}

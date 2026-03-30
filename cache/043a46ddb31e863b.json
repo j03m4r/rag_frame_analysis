@@ -1,0 +1,58 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "OK let's just start with that terrible incident at LaGuardia last night.",
+        "It was responding to an issue with another plane.",
+        "Transcript text may be revised to correct errors or match updates to audio."
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "Thank you Steve.KASTENBAUM My pleasure.Copyright 2026 NPR.",
+        "Transcript text may be revised to correct errors or match updates to audio.",
+        "It was responding to an issue with another plane."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Visit our website terms of use and permissions pages at for further information.Accuracy and availability of NPR transcripts may vary.",
+        "Thank you Steve.KASTENBAUM My pleasure.Copyright 2026 NPR.",
+        "The agents positioned around the check in counters are an obvious visual presence but it's not quite clear what they've been tasked with doing."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "Thank you Steve.KASTENBAUM My pleasure.Copyright 2026 NPR.",
+        "Visit our website terms of use and permissions pages at for further information.Accuracy and availability of NPR transcripts may vary.",
+        "OK let's just start with that terrible incident at LaGuardia last night."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "It was responding to an issue with another plane.",
+        "Transcript text may be revised to correct errors or match updates to audio.",
+        "So what kind of help did you see these ICE agents providing when LaGuardia reopened this afternoon?KASTENBAUM Well you know the airport closed throughout the morning."
+      ],
+      "present": false
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "ICE agents"
+    ],
+    "victim": [
+      "passengers",
+      "pilot and copilot"
+    ],
+    "villian": [
+      "TSA staffing shortage"
+    ]
+  },
+  "article_title": "How the runway crash and ICE agents' arrival are affecting LaGuardia",
+  "article_content": "How the runway crash and ICE agents' arrival are affecting LaGuardia\nHow the runway crash and ICE agents' arrival are affecting LaGuardia\nAs President Trump says he's sending Immigration and Customs Enforcement agents to help with TSA screening at U.S. airports, we hear from frustrated passengers at New York CIty's LaGuardia airport.\nAILSA CHANG, HOST:\nThe federal government sent ICE agents to some major airports today to help with the really long security lines. One of those airports is New York's LaGuardia, where flights were halted for much of the day after a deadly crash late last night. Steve Kastenbaum has been covering all of this closely and joins us now from LaGuardia. Hi, Steve.\nSTEVE KASTENBAUM: Hi. Thanks for having me.\nCHANG: Thanks for being with us. OK, let's just start with that terrible incident at LaGuardia last night. What do we know about what happened exactly?\nKASTENBAUM: Well, the crash happened late Sunday night. As an Air Canada flight from Montreal touched down, an air traffic controller gave an airport fire truck permission to cross one end of the runway. It was responding to an issue with another plane. In an audio recording of the conversation, we hear that controller quickly telling the driver to stop, but it was too late.\nThe resulting violent crash was captured on a security video. The front of the commuter jet was demolished. Both the pilot and copilot were killed. Officials here said they were both relatively young. The truck flipped over. Two police officers, and 41 of the 72 passengers were taken to area hospitals. Most have since been released. The airport was closed until midafternoon, when flights resumed. A team from the National Transportation Safety Board is here investigating the crash.\nCHANG: Well, as we mentioned, LaGuardia is one of the major airports where ICE agents have been deployed today to help with the sometimes hours-long security lines that travelers have been dealing with. So what kind of help did you see these ICE agents providing when LaGuardia reopened this afternoon?\nKASTENBAUM: Well, you know, the airport closed throughout the morning. So we didn't start seeing ICE agents and other Homeland Security officers until around noon. I counted roughly three dozen in the main terminal. Most went into the TSA security screening checkpoint. A few are still scattered around the main terminal building. It's hard to see what they're doing beyond the long line of passengers waiting to pass through security. The agents positioned around the check-in counters are an obvious visual presence, but it's not quite clear what they've been tasked with doing. I'd say it's an atypical day here, though. On Sunday, during the peak travel period, the wait to get through security was over 2 1/2 hours.\nCHANG: Oh, my goodness, how frustrating. OK, how are travelers reacting, like, at LaGuardia and beyond, as they're seeing these ICE agents assisting at the airports?\nKASTENBAUM: Well, you know, it's not entirely unusual to see ICE agents at an airport, but they're typically doing immigration enforcement. They're not usually helping with passengers going through security screenings.\nCHANG: Right.\nKASTENBAUM: People here are noticing their presence. While most of those agents weren't covering their faces, a few did wear surgical masks. Some folks are snapping pictures with their cellphones. Most are just relieved that the line wasn't snaking out onto the sidewalk.\nIn Atlanta, Justin Hurst (ph) waited in a TSA line for 4 hours, and he missed his flight. He says he wasn't expecting it to be that bad on a Monday, but it's the worst he's ever experienced.\nJUSTIN HURST: I feel as if it's ridiculous. I was actually watching a lot of the ICE agents, and they wasn't doing nothing. You know, they're there for crowd control, but I seen a lot of them just slacking, just huddled up in groups almost like it was a clique.\nKASTENBAUM: And another passenger at Atlanta told NPR, she doesn't agree with ICE and wondered how safe it is to have untrained ICE agents doing airport security at a time when the country is at war with Iran. But border czar Tom Homan told CNN yesterday that ICE agents aren't screening passengers. Instead, he said they're doing other things like guarding exits so the TSA agents can focus on scanning passengers.\nCHANG: And real quick, we know some TSA agents have been calling in sick or have taken other jobs rather than work without pay. Has DHS said how many agents are off the job as of now - in the last 15 seconds?\nKASTENBAUM: Well, a Department of Homeland Security spokesperson told NPR that on Sunday, the call-out rate was the highest it has been since the funding disputes started. Nearly 3,500 TSA officers did not come into work.\nCHANG: That is Steve Kastenbaum joining us from LaGuardia Airport. Thank you, Steve.\nKASTENBAUM: My pleasure.\nCopyright \u00a9 2026 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.\nAccuracy and availability of NPR transcripts may vary. Transcript text may be revised to correct errors or match updates to audio. Audio on npr.org may be edited after its original broadcast or publication. The authoritative record of NPR\u2019s programming is the audio record."
+}

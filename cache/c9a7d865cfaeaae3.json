@@ -1,0 +1,53 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Trump stood by the federal agents' actions and pushed the blame back on Walz and Minnesota officials in a Saturday Truth Social post, referencing allegations of widespread social services fraud in the state.",
+        "The Mayor and the Governor are inciting Insurrection, with their pompous, dangerous, and arrogant rhetoric!' Trump posted.",
+        "Tensions between Minnesota local and state officials and the White House have continued to grow, with the Department of Justice (DOJ) issuing subpoenas accusing Walz and Frey of obstructing an immigration enforcement investigation."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Thousands protested Friday and called for an 'economic blackout' despite freezing conditions.",
+        "Their outrage over the killing threatens to imperil a government funding vote this week in the Senate, which would allocate funding for DHS.",
+        "If these measures are not passed by the Friday deadline, the government will shut down partially."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Alex Jeffrey Pretti, a 37-year-old intensive care nurse and Minneapolis resident, was shot several times in the chest before he was taken to the hospital.",
+        "The shooting comes weeks after a federal immigration enforcement officer shot and killed a woman, resident Renee Good, setting off widespread protests in the Twin Cities.",
+        "I just spoke with the White House after another horrific shooting by federal agents this morning,' Walz said on X. 'Minnesota has had it. This is sickening.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Minneapolis Mayor Jacob Frey (D) called on President Trump to 'act like a leader' and to put 'Minneapolis, put America, first in this moment.'",
+        "'Let's end this operation and, I'm telling you, our city will come back,' Frey said at the press conference. 'Safety will be restored. We're asking for you to take action now to remove these federal agents.'",
+        "After the latest reports of a shooting, Minnesota Gov. Tim Walz (D) again called for Trump to remove the federal law enforcement from his state."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Jacob Frey",
+      "Tim Walz"
+    ],
+    "victim": [
+      "Alex Jeffrey Pretti"
+    ],
+    "villian": [
+      "Federal law enforcement/ICE agents"
+    ]
+  },
+  "article_title": "Man killed in new Minneapolis shooting; DHS says victim was armed"
+}

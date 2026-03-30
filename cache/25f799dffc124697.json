@@ -1,0 +1,57 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Airport staff were seen handing out water but little else.For travelers the frustration is pointed but most say they're not interested in the political blame game they just want Washington to solve the issue.",
+        "The line also does not follow an Americans with Disabilities Act compliant route so wheelchairs have to be directed to a separate area.",
+        "It says Attention passengers due to the federal government shutdown TSA wait times are currently exceeding four hours."
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "If your flight is departing soon you may not clear security in time.",
+        "It says Attention passengers due to the federal government shutdown TSA wait times are currently exceeding four hours.",
+        "Airport staff were seen handing out water but little else.For travelers the frustration is pointed but most say they're not interested in the political blame game they just want Washington to solve the issue."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Airport staff were seen handing out water but little else.For travelers the frustration is pointed but most say they're not interested in the political blame game they just want Washington to solve the issue.",
+        "It says Attention passengers due to the federal government shutdown TSA wait times are currently exceeding four hours.",
+        "The line also does not follow an Americans with Disabilities Act compliant route so wheelchairs have to be directed to a separate area."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "She returned on Monday to again face the long wait time.Another passenger told CBS News he plans to spend the night at the airport ahead of a flight Tuesday out of Terminal A just to make sure he gets on.With no access to food while waiting families were struggling to calm babies and small children.",
+        "Please consider contacting your airlines now for rebooking options.Some travelers told CBS News they walked in saw the security line and immediately rebooked their flight.One woman said she broke down in tears on Sunday after hearing the final boarding call for her flight to Philadelphia while still stuck in line a gate agent later told her that she was one of 40 passengers to miss that leg.",
+        "Airport staff were seen handing out water but little else.For travelers the frustration is pointed but most say they're not interested in the political blame game they just want Washington to solve the issue."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Airport staff were seen handing out water but little else.For travelers the frustration is pointed but most say they're not interested in the political blame game they just want Washington to solve the issue.",
+        "If your flight is departing soon you may not clear security in time.",
+        "The line also does not follow an Americans with Disabilities Act compliant route so wheelchairs have to be directed to a separate area."
+      ],
+      "present": false
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Trump administration"
+    ],
+    "victim": [
+      "travelers"
+    ],
+    "villian": [
+      "partial government shutdown"
+    ]
+  },
+  "article_title": "TSA lines at Houston airport turn into a 3-floor nightmare amid staffing shortage",
+  "article_content": "TSA lines at Houston airport turn into a 3-floor nightmare amid staffing shortage\nWith nearly 40% of TSA employees at George Bush Intercontinental Airport calling out as the partial government shutdown drags into a sixth week, Houston has a problem.\nThe security line in Terminal A on Monday turned into a three-floor nightmare stretching into the airport's underground train system. The wait starts inside the terminal with a long slog in the subway corridor below, winding past baggage claim before climbing into ticketing \u2014 a slow-moving maze that travelers call confusing and inefficient.\nOut of the airport's five terminals, only two had TSA staffing, and the wait times could exceed four hours, the airport told travelers. Some passengers in Terminal A told CBS News they'd been waiting longer \u2014 five or six hours.\nThe traffic in Terminal E was moving somewhat faster on Monday, but passengers in both terminals with TSA officers told CBS News they had been waiting more than three hours. PreCheck and CLEAR lanes were both closed, pushing everyone into the same clogged lines.\nTo help relieve the staffing shortage, the Trump administration sent Immigration and Customs Enforcement agents to some of the airports that have been hit particularly hard.\nThe Department of Homeland Security did not confirm where the agents were deployed due to \"operational security reasons,\" but White House border czar Tom Homan said ICE agents are currently stationed in 14 U.S. airports.\nCBS News spotted about two dozen immigration officers \u2014 most armed, with badges that identify them as ICE Enforcement and Removal Operations \u2014 at George Bush Intercontinental Airport on Monday. The agents are stationed at the security lines, along with Houston police, emergency management personnel and airport staff.\nWhile ICE agents could be seen directing passengers and trying to keep lines moving at the worst choke points, TSA officers are still handling ID checks and running screening machines.\nThroughout the Houston airport, there's a warning playing on a loop to all passengers. It says: \"Attention passengers \u2014 due to the federal government shutdown, TSA wait times are currently exceeding four hours. If your flight is departing soon, you may not clear security in time. Please consider contacting your airlines now for rebooking options.\"\nSome travelers told CBS News they walked in, saw the security line and immediately rebooked their flight.\nOne woman said she broke down in tears on Sunday after hearing the final boarding call for her flight to Philadelphia while still stuck in line \u2014 a gate agent later told her that she was one of 40 passengers to miss that leg. She returned on Monday to again face the long wait time.\nAnother passenger told CBS News he plans to spend the night at the airport ahead of a flight Tuesday out of Terminal A just to make sure he gets on.\nWith no access to food while waiting, families were struggling to calm babies and small children. The line also does not follow an Americans with Disabilities Act-compliant route, so wheelchairs have to be directed to a separate area. Airport staff were seen handing out water, but little else.\nFor travelers, the frustration is pointed, but most say they're not interested in the political blame game \u2014 they just want Washington to solve the issue."
+}

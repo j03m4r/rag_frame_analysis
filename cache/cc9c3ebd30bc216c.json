@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "When I was 6, I wished those different people next door lived somewhere else, instead of next door to me. But I was ashamed of feeling that way. I knew it was wrong. Mr. Vance is not only an adult; he is a Catholic.",
+        "This is such a flagrant insult to our faith that I don't even know how to explain it.",
+        "What JD Vance is teaching is not nuanced or complex. He is simply saying, 'If you're different, go away.' And it's not just a single out-of-context clip from a podcast."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "When I was growing up, we lived next door to a group home for adults with disabilities. There were probably 15 people living there, not including the old couple who housed them.",
+        "One who came often was Bill, a tall, lanky man with no teeth and a massive underbite, his cartoonishly bent legs flapping in old-fashioned trousers.",
+        "One year, we opened the door and old Bill walked in. My parents looked at each other. Then they did the only thing that seemed reasonable: They offered him Elijah's cup."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "The Catechism of the Catholic Church teaches that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+        "Holy Scripture, over and over again, commands us to welcome the stranger, rescue the refugee, feed the hungry and house the homeless.",
+        "It is cowardly, it is selfish, it is un-American, it is un-Christian to reject people just because they are different\u2014which is all that Mr. Vance noted."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "This administration wants to set itself up as somehow Christian. Let them, then, do the bare minimum: Welcome the stranger.",
+        "The Catechism of the Catholic Church teaches that prosperous nations 'are obliged, to the extent they are able, to welcome the foreigner in search of the security and means of livelihood which he cannot find in his country of origin.'",
+        "Its shameful not to try to get past it and to be better."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "the author's mother"
+    ],
+    "victim": [
+      "immigrants"
+    ],
+    "villian": [
+      "JD Vance"
+    ]
+  },
+  "article_title": "JD Vance\u2019s immigration comments are an insult to our Catholic faith"
+}

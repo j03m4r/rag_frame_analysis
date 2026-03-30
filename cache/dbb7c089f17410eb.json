@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The suspect, identified as Ayman Mohamad Ghazali, 41, allegedly rammed the synagogue and opened fire at security guards with a rifle, authorities said.",
+        "Armed security returned fire and shot him dead.",
+        "Baydoun condemned the attack and urged residents to remain vigilant, 'especially as we gather during these sacred final days of Ramadan.'"
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "All staff and 140 students were evacuated, FOX 2 Detroit reported.",
+        "Oakland County Sheriff Michael Bouchard said one security guard was struck by the suspect's truck. In a later update, he said roughly 30 officers were taken to the hospital for smoke inhalation after entering the building.",
+        "'Earlier this month, he lost several members of his own family, including his niece and nephew, in an Israeli attack on their home in Lebanon.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "Baydoun condemned the attack and urged residents to remain vigilant, 'especially as we gather during these sacred final days of Ramadan.'",
+        "The raid came hours after a suspect rammed a vehicle into Temple Israel, a large Reform synagogue in West Bloomfield.",
+        "Earlier today we learned that the individual responsible for the incident that took place at Temple Israel Synagogue in West Bloomfield was a resident of Dearborn Heights."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "White House press secretary Karoline Leavitt confirmed President Donald Trump had been briefed on the shooting, while FBI Director Kash Patel and Attorney General Pam Bondi said FBI personnel and agents with the Bureau of Alcohol, Tobacco, Firearms and Explosives are assisting in the investigation.",
+        "Armed FBI agents executed a search warrant at a home in Michigan overnight Thursday, believed to be in connection with the synagogue attacker who rammed a vehicle into a Jewish house of worship earlier in the day.",
+        "Multiple law enforcement sources and federal authorities said the suspect entered the United States as the spouse of a U.S. citizen roughly 15 years ago during the Obama administration and was granted citizenship in 2016."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "FBI agents"
+    ],
+    "victim": [
+      "Temple Israel synagogue community"
+    ],
+    "villian": [
+      "Ayman Mohamad Ghazali"
+    ]
+  },
+  "article_title": "Armed FBI agents carry out search warrant believed to be in connection to synagogue attacker"
+}

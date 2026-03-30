@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Noem drew bipartisan fury after accusing Minneapolis nurse Alex Pretti and mother Renee Nicole Good of being domestic terrorists after both were shot and killed by federal agents in January.",
+        "Sen. John Fetterman (D-Pa.) posted on X asking Trump to 'immediately fire' Noem, saying she is 'betraying DHS's core mission.'",
+        "Republican Sens. Thom Tillis (N.C.) and Lisa Murkowski (Alaska) \u2014 both of whom voted to confirm Noem \u2014 demanded her resignation in January."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "She also spent nearly $300 million in border security funds on a luxury jet fleet and $220 million more on ads featuring her.",
+        "She bottlenecked FEMA's Hurricane Helene disaster relief by requiring her personal approval on expenses over $100,000, cycled through three acting FEMA administrators, and presided over mass cuts to that agency's workforce."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Noem drew bipartisan fury after accusing Minneapolis nurse Alex Pretti and mother Renee Nicole Good of being domestic terrorists after both were shot and killed by federal agents in January.",
+        "She also criticized Pretti for carrying a gun with ammunition to protest ICE enforcement, suggesting he was 'wishing to inflict harm on officers.'",
+        "Noem's exit leaves Trump's mass deportation agenda without its most prominent face amid a public backlash."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Some Trump administration advisers have discussed 'recalibrating' the White House's immigration enforcement approach as polling shows declining support for Trump's immigration policies.",
+        "At a March 3 Senate Judiciary oversight hearing, Tillis called Noem's tenure 'a disaster' and threatened to block all of Trump's nominations until she answered his questions.",
+        "Noem's exit leaves Trump's mass deportation agenda without its most prominent face amid a public backlash."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Markwayne Mullin"
+    ],
+    "victim": [
+      "Alex Pretti",
+      "Renee Nicole Good"
+    ],
+    "villian": [
+      "Kristi Noem"
+    ]
+  },
+  "article_title": "DHS Secretary Kristi Noem out, Trump says"
+}

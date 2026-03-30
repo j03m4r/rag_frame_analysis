@@ -1,0 +1,49 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The economic consequences of Trump's mass deportation policies are multifaceted and contested, with the administration presenting positive outcomes while independent economists warn of significant negative effects.",
+        "While the Trump administration credits mass deportations with boosting wages and housing affordability for American citizens, the overwhelming consensus among independent economists is that these policies risk significant long-term damage to GDP, employment, and economic growth.",
+        "In Minnesota, state officials reported that the federal immigration crackdown harmed the state's economy and disrupted fraud enforcement efforts."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "The Peterson Institute for International Economics estimated that deporting between 1.3 and 8.3 million undocumented immigrants could reduce U.S. real GDP by as much as 7 percent by 2028, while significantly decreasing employment, increasing inflation, and driving down demand.",
+        "Immigrants generated approximately $1.7 trillion in economic activity in 2023 and paid roughly $652 billion in local, state, and federal taxes. Undocumented immigrants alone held $299 billion in spending power and paid close to $90 billion in taxes.",
+        "A 2025 study by the nonpartisan National Foundation for American Policy found that a shrinking labor force could cut annual economic growth by almost one-third by 2035."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [],
+      "present": false
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "In Minnesota, state officials reported that the federal immigration crackdown harmed the state's economy and disrupted fraud enforcement efforts.",
+        "Labor shortages since early 2025: job growth in industries heavily reliant on undocumented labor, including hotels, restaurants, construction, and health care, has been weaker than the rest of the private sector, and the Labor Department warned of an emerging labor shortage.",
+        "A 2025 study by the nonpartisan National Foundation for American Policy found that a shrinking labor force could cut annual economic growth by almost one-third by 2035."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Trump administration"
+    ],
+    "victim": [
+      "undocumented immigrants",
+      "U.S. economy"
+    ],
+    "villian": [
+      "Trump's mass deportation policies"
+    ]
+  },
+  "query": 3
+}

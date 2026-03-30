@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Some Catholics, including Vice President JD Vance, have supported the enforcement crackdown and criticized bishops for opposing administration policies.",
+        "A Presbyterian pastor was struck by a pepper ball while protesting outside an ICE facility in a Chicago suburb, with DHS defending the action by calling protesters 'agitators'.",
+        "This has created notable theological tension, with critics arguing that Vance's positions reflect values fundamentally at odds with Catholic teaching on welcoming the stranger."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Catholic parishioners delivered food to immigrants too frightened to leave their homes in Coachella, California.",
+        "Some priests have begun celebrating Mass online for immigrants too scared to leave their homes.",
+        "In closed meetings, 450 Christian leaders from over 60 congregations heard directly from immigrants about family separations and detention fears."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "The Rev. Corey Widmer expressed that they were 'grieved by rhetoric that dehumanizes those made in the image of God.'",
+        "Rev. Raymond Riding stated plainly: 'Catholic social teaching is on the side of the immigrant.'",
+        "A Catholic commentator noted that the Catechism teaches prosperous nations are 'obliged, to the extent they are able, to welcome the foreigner,' calling certain administration positions 'a flagrant insult to our faith'."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "The coalition emphasized that rule of law must be applied with 'justice, mercy, proportionality and due process'.",
+        "Pope Leo has called mass deportations 'a major crisis' and stated immigrants should be treated with dignity, even expressing a wish that bishops were 'stronger in their voice'.",
+        "Faith groups have created what one report describes as an 'underground railroad of help' for immigrants."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Religious leaders and faith communities"
+    ],
+    "victim": [
+      "Immigrants"
+    ],
+    "villian": [
+      "Federal immigration enforcement (ICE/DHS/Administration)"
+    ]
+  },
+  "query": 4
+}

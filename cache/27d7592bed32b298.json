@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Hundreds of clergy traveled to Minneapolis to protest federal immigration enforcement actions and rallied outside the U.S. Capitol with calls to 'dismantle ICE' \u2013 reflecting a broader national response among religious communities.",
+        "We are troubled by policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods.",
+        "The coalition said that while respect for rule of law is essential to a healthy society, it should be applied with 'justice, mercy, proportionality and due process.'"
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Widmer said stories were shared of families who, despite living in the United States for decades, are now afraid to run everyday errands like going to the grocery store or medical appointments.",
+        "Contreras told VPM News he was carrying a heavy heart watching and listening to what immigrants are going through.",
+        "We are grieved by rhetoric that dehumanizes those made in the image of God."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "We are grieved by rhetoric that dehumanizes those made in the image of God.",
+        "Standing side by side and delivering a unified statement, the clergy members said this is a moment that calls for moral seriousness, not indifference.",
+        "Everyone that responded to the call to show love to the immigrants is responding to the Holy Spirit, who is the one that unites the church of God."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "The group of leaders also acknowledged that America's immigration system is in need of comprehensive reform.",
+        "The coalition said they learned practical ways to partner with nonprofits serving immigrant communities and learned how to advocate for better federal and state policy.",
+        "We are convinced that none of us is permitted to respond with silence, cruelty, or apathy."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "faith leaders coalition"
+    ],
+    "victim": [
+      "immigrants"
+    ],
+    "villian": [
+      "US Immigration and Customs Enforcement (ICE)"
+    ]
+  },
+  "article_title": "Richmond-area faith leaders speak out on federal immigration enforcement"
+}

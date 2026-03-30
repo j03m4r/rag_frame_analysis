@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Disputed Tactics and Civilian DeathsOne of the most contentious developments has been the killing of U.S. citizens during enforcement operations.",
+        "Broader Social and Political FalloutThe enforcement crackdown has galvanized significant public opposition.",
+        "Congressional Deadlock and Proposed ReformsSenators from both parties raced to broker a deal to end the DHS shutdown with the emerging proposal seeking to Fund most of DHS but exclude ICE's enforcement and removal operations Require body cameras for ICE officers Potentially mandate judicial warrants rather than administrative warrants for home searches 329Democrats demanded stronger reforms including unmasking of agents and bans on enforcement at sensitive locations like schools and churches 29."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Broader Social and Political FalloutThe enforcement crackdown has galvanized significant public opposition.",
+        "The administration's budget for ICE grew by 75 billion under the One Big Beautiful Bill dramatically expanding the agency's resources and surveillance capabilities 19.",
+        "At the same time high profile crimes committed by individuals who entered the country illegally such as the alleged murder of Loyola University student Sheridan Gorman by a Venezuelan national who had been released under Biden era catch and release policies have been cited by the administration to justify the crackdown 515."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "The deaths of Renee Good and Alex Pretti in Minneapolis both American citizens killed by federal agents triggered widespread protests and became a central flashpoint in congressional funding negotiations 1429.",
+        "Disputed Tactics and Civilian DeathsOne of the most contentious developments has been the killing of U.S. citizens during enforcement operations.",
+        "Broader Social and Political FalloutThe enforcement crackdown has galvanized significant public opposition."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "No Kings protests have drawn millions nationwide with religious leaders across faiths citing immigration enforcement as a core moral concern 2.",
+        "The deaths of Renee Good and Alex Pretti in Minneapolis both American citizens killed by federal agents triggered widespread protests and became a central flashpoint in congressional funding negotiations 1429.",
+        "Disputed Tactics and Civilian DeathsOne of the most contentious developments has been the killing of U.S. citizens during enforcement operations."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Critics including TSA union leaders argued ICE agents lacked the specialized training to meaningfully reduce lines and called the move a political distraction from the real issue unpaid TSA workers 1624.",
+        "Broader Social and Political FalloutThe enforcement crackdown has galvanized significant public opposition.",
+        "Congressional Deadlock and Proposed ReformsSenators from both parties raced to broker a deal to end the DHS shutdown with the emerging proposal seeking to Fund most of DHS but exclude ICE's enforcement and removal operations Require body cameras for ICE officers Potentially mandate judicial warrants rather than administrative warrants for home searches 329Democrats demanded stronger reforms including unmasking of agents and bans on enforcement at sensitive locations like schools and churches 29."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Democrats"
+    ],
+    "victim": [
+      "immigrants and U.S. citizens caught in enforcement operations"
+    ],
+    "villian": [
+      "Trump administration / ICE"
+    ]
+  },
+  "query": 0
+}

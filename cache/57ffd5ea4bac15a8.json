@@ -1,0 +1,54 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The shootings of Minneapolis residents Renee Good and Alex Pretti by federal agents intensified community anguish, sparked widespread protests, and led to calls for the removal of federal agents from the state.",
+        "Hundreds of clergy traveled to Minneapolis to protest, and 450 Christian leaders from over 60 congregations gathered to hear directly from immigrants about their suffering.",
+        "Faith leaders have been clear that none of us is permitted to respond with silence, cruelty, or apathy."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Minnesota Attorney General Keith Ellison stated that federal enforcement operations 'harmed our economy and scarred our people.'"
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "One volunteer witnessed a man facing deportation to Venezuela who asked how to reach the top of a seven-story building, wanting to jump \u2014 and was only talked down by nuns.",
+        "Volunteers have also witnessed mothers being arrested while their children marched beside them, crying, with the children seemingly not fully comprehending what was happening.",
+        "'The kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there.'"
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "A coalition of Richmond faith leaders expressed being 'grieved by rhetoric that dehumanizes those made in the image of God' and 'troubled by policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods.'",
+        "Bishop Seitz lamented: 'What has happened to our heart? Today in the country and the world, I wonder whether we can even recognize our country.'",
+        "Faith leaders have been clear that 'none of us is permitted to respond with silence, cruelty, or apathy.'"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "The shootings of Minneapolis residents Renee Good and Alex Pretti by federal agents intensified community anguish, sparked widespread protests, and led to calls for the removal of federal agents from the state.",
+        "Pope Leo has called mass deportations 'a major crisis' and urged that immigrants be treated with dignity.",
+        "Faith groups have created what amounts to 'an underground railroad of help' for those affected."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Faith communities"
+    ],
+    "victim": [
+      "Immigrant communities"
+    ],
+    "villian": [
+      "Federal immigration enforcement"
+    ]
+  },
+  "query": 2
+}

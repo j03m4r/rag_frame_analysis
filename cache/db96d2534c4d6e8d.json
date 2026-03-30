@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Tensions between federal and local governments escalated dramatically, with the DOJ issuing subpoenas accusing Minnesota's governor and mayor of obstruction.",
+        "These incidents drew bipartisan condemnation and contributed to the eventual departure of DHS Secretary Kristi Noem, whose tenure was described by Republican Sen. Thom Tillis as 'a disaster'.",
+        "While the Trump administration argues enforcement has improved safety, wages, and housing affordability, independent data, community reports, and economic analyses suggest the broader impacts include economic disruption, community fear, institutional strain, and questions about the true scope of deportations."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Immigrants contribute approximately $1.7 trillion in economic activity and pay $652 billion in taxes annually.",
+        "The Peterson Institute for International Economics estimates mass deportations could reduce U.S. real GDP by up to 7% by 2028, while increasing inflation and reducing employment.",
+        "A nonpartisan study warned enforcement policies could cut annual economic growth by nearly one-third by 2035."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "Federal immigration operations have led to violent incidents, most notably in Minneapolis, where federal agents shot and killed two residents \u2014 nurse Alex Pretti and mother Renee Good \u2014 sparking widespread protests.",
+        "Children fear coming home to find parents arrested, and volunteers have witnessed harrowing scenes of family separations.",
+        "Faith leaders report immigrants too frightened to go to grocery stores, doctors' offices, or schools."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "Hundreds of clergy traveled to Minneapolis to protest, and coalitions of religious leaders have condemned policies that 'separate families, sow anxiety among children, and create fear'.",
+        "Pope Leo has called mass deportations 'a major crisis,' while some Catholic leaders have challenged the moral consistency of Catholic officials who support the crackdown.",
+        "Faith communities across the country have mounted significant resistance to immigration enforcement policies."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Tensions between federal and local governments escalated dramatically, with the DOJ issuing subpoenas accusing Minnesota's governor and mayor of obstruction.",
+        "In Minnesota, the surge of 3,000 federal agents paradoxically hampered fraud prosecutions rather than aiding them, as attorneys in the U.S. Attorney's Office became overwhelmed with immigration-related petitions instead of fraud cases.",
+        "The state also faced the withholding of $243 million in Medicaid funding, prompting a lawsuit."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Faith communities and religious leaders"
+    ],
+    "victim": [
+      "Immigrant communities"
+    ],
+    "villian": [
+      "Trump administration"
+    ]
+  },
+  "query": 0
+}

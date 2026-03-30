@@ -1,0 +1,47 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The city sits at an intersection of compounding pressures the league said.",
+        "The fact that we have so many foreign born workers in this country and so many of them are under threat its inevitably going to drive costs up or services down.What is enforcement shock?Thats the Economy Leagues name for this phenomenon which produces both primary and secondary effects.",
+        "And the Philadelphia Parking Authority has issued citations and impounded cars of impostor drivers underscoring how enforcement shapes supply."
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "That erodes household income.",
+        "The fact that we have so many foreign born workers in this country and so many of them are under threat its inevitably going to drive costs up or services down.What is enforcement shock?Thats the Economy Leagues name for this phenomenon which produces both primary and secondary effects.",
+        "That means the people most exposed to market changes are also those who are least able to absorb higher costs.What do higher costs look like?In food delivery platform fees rose about 15 in a year while restaurants increased menu prices 15 to 25 on delivery apps to offset the costs of commission the league found."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "And nearly 80 of establishments report being short at least one worker.Explain a real world impact?Sure.",
+        "The fact that we have so many foreign born workers in this country and so many of them are under threat its inevitably going to drive costs up or services down.What is enforcement shock?Thats the Economy Leagues name for this phenomenon which produces both primary and secondary effects.",
+        "And not just the arrest and deportation of workers who lack official permission to be in the country but the fear that those arrests have engendered among others dissuading them from taking similar gig jobs."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "That erodes household income.",
+        "And not just the arrest and deportation of workers who lack official permission to be in the country but the fear that those arrests have engendered among others dissuading them from taking similar gig jobs.",
+        "And the Philadelphia Parking Authority has issued citations and impounded cars of impostor drivers underscoring how enforcement shapes supply."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "The fact that we have so many foreign born workers in this country and so many of them are under threat its inevitably going to drive costs up or services down.What is enforcement shock?Thats the Economy Leagues name for this phenomenon which produces both primary and secondary effects.",
+        "And nearly 80 of establishments report being short at least one worker.Explain a real world impact?Sure.",
+        "The city sits at an intersection of compounding pressures the league said."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {},
+  "article_title": "Philly\u2019s gig economy runs on immigrant workers. Now that labor pool is shrinking amid tougher ICE enforcement.",
+  "article_content": "Philly\u2019s gig economy runs on immigrant workers. Now that labor pool is shrinking amid tougher ICE enforcement.\nA new analysis by the Economy League of Greater Philadelphia says the city\u2019s gig economy faces a reckoning.\nAre you waiting longer for the rideshare driver to show up? Or for that burger and fries to be delivered to your door? Does it all cost more?\nHere\u2019s part of the reason: stricter immigration enforcement. And not just the arrest and deportation of workers who lack official permission to be in the country, but the fear that those arrests have engendered among others, dissuading them from taking similar gig jobs. That as legal pathways into the country for other immigrant workers have been curtailed.\nA new analysis by the Economy League of Greater Philadelphia says the city\u2019s gig economy faces a reckoning. It runs on immigrant workers, but the Trump administration\u2019s effort to carry out the largest deportation campaign in U.S. history is shrinking the labor pool.\n\u201cThe demand [for gig services] is not going away,\u201d said Jeff Hornstein, executive director of the Economy League. \u201cThe fact that we have so many foreign-born workers in this country, and so many of them are under threat, it\u2019s inevitably going to drive costs up or services down.\u201d\nWhat is \u2018enforcement shock\u2019?\nThat\u2019s the Economy League\u2019s name for this phenomenon, which produces both primary and secondary effects. ICE does not release local figures, but nationally, arrests of immigrants are surging. Those arrests, detentions, and deportations, and the fear among immigrant workers that they could be next, is subtracting people from the labor force. That and the reduction of humanitarian-entry programs and new limits on work sponsorship mean there are simply fewer workers available, as the national, foreign-born labor force has declined by an estimated 750,000 people since President Donald Trump took office in January 2025.\nWhat does that mean for me, when I want to order food or need rideshare?\nNothing good. Gig service prices are rising, delivery wait times are lengthening, and rideshare availability is shrinking due to staffing gaps, the Economy League found. That in a city where inflation already surpasses the national average.\nWhat do we mean by \u2018gig work\u2019?\nFor its Leading Indicators analysis, the Economy League defined the term narrowly, as platform-mediated, on-demand work \u2015 such as app-based services. It did not include, for instance, nannies or most domestic help, because they are typically household employees or independent caregivers. Gig labor pools tend to be heavily immigrant, and particularly composed of recent immigrants who have limited alternatives.\nHow large is the gig workforce?\nBig, though difficult to measure. There\u2019s no local census of gig workers. Applying national platform participation of about 16% of adults to Philadelphia\u2019s civilian labor force indicates there are 63,000 to 68,000 gig workers here, the league found. And that\u2019s before accounting for day labor and off-platform work. Gig platforms are among the last accessible labor markets for undocumented workers, because the E-Verify system generally does not apply there. The challenge faced by those workers is whether a day\u2019s pay is worth the risk of ending up in prison in Texas.\nIs the problem acute in Philadelphia?\nYes. The city sits at an intersection of compounding pressures, the league said. Its inflation rate of 3.9% exceeds the national rate of 2.7%. That erodes household income. Meanwhile, more than 20% of city residents live below the poverty line, and about half of those households do not own a car. That means the people most exposed to market changes are also those who are least able to absorb higher costs.\nWhat do \u2018higher costs\u2019 look like?\nIn food delivery, platform fees rose about 15% in a year, while restaurants increased menu prices 15% to 25% on delivery apps to offset the costs of commission, the league found. For restaurants, labor costs now consume 36.5% of full-service sales, up from 33% before the pandemic. And nearly 80% of establishments report being short at least one worker.\nExplain a real-world impact?\nSure. Fans trying to secure a rideshare after Phillies games at Citizens Bank Park reported repeated driver cancellations. Meanwhile, fare quotes rose $8 while they waited. Uber earlier put in place a $10 pickup surcharge, paid to drivers and included in the customer price, for stadium pickups. And the Philadelphia Parking Authority has issued citations and impounded cars of \u201cimpostor\u201d drivers, underscoring how enforcement shapes supply. Those factors show both a thinning availability of reliable drivers and the platforms\u2019 use of price instruments to regain that reliability \u2015 exactly how labor scarcity translates into higher costs."
+}

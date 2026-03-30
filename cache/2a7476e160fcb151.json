@@ -1,0 +1,55 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Catholic writer Simcha Fisher challenged Vice President JD Vance directly, noting that his rhetoric \u2014 justifying rejection of immigrants simply because they are 'different' \u2014 represents 'a flagrant insult to our faith,' citing the Catechism's teaching that prosperous nations are 'obliged...to welcome the foreigner'.",
+        "Democratic Rep. Robert Garcia held up images of the blood-stained car seat from the Good shooting, declaring: 'This violence does not make us safer'.",
+        "The killings triggered massive protests, an 'economic blackout,' and congressional attempts to defund DHS \u2014 demonstrating how enforcement violence radiates outward to affect entire communities far beyond the immediate targets."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "In Minnesota, the immigration surge was described as having 'harmed our economy and...scarred our people' while paradoxically hampering the state's ability to prosecute fraud.",
+        "The killings triggered massive protests, an 'economic blackout,' and congressional attempts to defund DHS \u2014 demonstrating how enforcement violence radiates outward to affect entire communities far beyond the immediate targets."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "In Southern California, some parish priests noted that 'kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there,' and some bishops temporarily allowed people to skip Sunday mass because immigrants were too afraid to leave their homes.",
+        "A coalition of Richmond-area faith leaders gathered publicly to declare: 'We are grieved by rhetoric that dehumanizes those made in the image of God' and expressed concern about 'policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods'.",
+        "In Minneapolis, federal agents killed nurse Alex Pretti and resident Ren\u00e9e Good in separate incidents, with video evidence contradicting official DHS accounts that both were threats."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "A coalition of Richmond-area faith leaders gathered publicly to declare: 'We are grieved by rhetoric that dehumanizes those made in the image of God' and expressed concern about 'policies and practices that separate families, sow anxiety among children and create fear around schools, hospitals, houses of worship and neighborhoods'.",
+        "Catholic writer Simcha Fisher challenged Vice President JD Vance directly, noting that his rhetoric \u2014 justifying rejection of immigrants simply because they are 'different' \u2014 represents 'a flagrant insult to our faith,' citing the Catechism's teaching that prosperous nations are 'obliged...to welcome the foreigner'.",
+        "Pope Leo XIV called mass deportations 'a major crisis' and urged bishops to be 'stronger in their voice,' while El Paso Bishop Mark Seitz asked pointedly: 'What has happened to our heart?'"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Pope Leo XIV called mass deportations 'a major crisis' and urged bishops to be 'stronger in their voice.'",
+        "Catholic nuns and volunteers in Nogales, Mexico serve two meals daily to deported immigrants despite 'rising threats against aid workers'.",
+        "Minnesota Attorney General Keith Ellison stated that enforcement operations 'scarred our people'."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "faith leaders and clergy"
+    ],
+    "victim": [
+      "immigrant communities"
+    ],
+    "villian": [
+      "immigration enforcement (DHS/federal agents)"
+    ]
+  },
+  "query": 2
+}

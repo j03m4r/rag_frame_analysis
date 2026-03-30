@@ -1,0 +1,57 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "They said passengers should go to the terminal assigned by their airline and check with their carrier before trying to use another checkpoint.Officials also addressed concerns about the heat inside the airport.",
+        "We're having conversations about all kinds of stuff Umphenour said.Umphenour said she had already been in line about an hour when she reached the TSA PreCheck checkpoint for her flight to Milwaukee.For others the heat inside the airport made the experience even more frustrating.It's hot.",
+        "It looks like a half a mile that way Keller said describing the line."
+      ],
+      "present": false
+    },
+    "economic": {
+      "evidence": [
+        "They said large crowds and the number of doors opening and closing can make it difficult to keep temperatures consistent.Despite the delays some travelers said they are making it through.",
+        "She had missed her flight the day before after getting to the airport three hours early.",
+        "ICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history mayor saysICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history mayor saysMayor Andre Dickens says that his administration is actively monitoring the situation at Hartsfield Jackson Atlanta International Airport after federal personnel were deployed to the world's busiest airport to support with security operations.In an update to local and federal officials obtained by CBS Atlanta Dickens called the involvement of U.S. Immigration and Customs Enforcement and Homeland Security Investigations unprecedented in the 100 year history of the airport.On Monday the federal agents joined Transportation Security Administration officers in Atlanta's security lines after thousands of unpaid TSA workers called out sick creating major delays at checkpoints."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "We've made friends.",
+        "I mean I'm sweating on my back said traveler Gage Henderson.Airport officials said wait times change throughout the day based on passenger volume and cannot always be accurately reflected online.",
+        "Keller later reached her gate after waiting in line for more than an hour.Airport officials are urging travelers to plan ahead and treat current conditions like peak holiday travel."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "We've made friends.",
+        "They said passengers should go to the terminal assigned by their airline and check with their carrier before trying to use another checkpoint.Officials also addressed concerns about the heat inside the airport.",
+        "It looks like a half a mile that way Keller said describing the line."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "They said passengers should go to the terminal assigned by their airline and check with their carrier before trying to use another checkpoint.Officials also addressed concerns about the heat inside the airport.",
+        "They said large crowds and the number of doors opening and closing can make it difficult to keep temperatures consistent.Despite the delays some travelers said they are making it through.",
+        "ICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history mayor saysICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history mayor saysMayor Andre Dickens says that his administration is actively monitoring the situation at Hartsfield Jackson Atlanta International Airport after federal personnel were deployed to the world's busiest airport to support with security operations.In an update to local and federal officials obtained by CBS Atlanta Dickens called the involvement of U.S. Immigration and Customs Enforcement and Homeland Security Investigations unprecedented in the 100 year history of the airport.On Monday the federal agents joined Transportation Security Administration officers in Atlanta's security lines after thousands of unpaid TSA workers called out sick creating major delays at checkpoints."
+      ],
+      "present": false
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "TSA"
+    ],
+    "victim": [
+      "travelers"
+    ],
+    "villian": [
+      "unpaid TSA workers"
+    ]
+  },
+  "article_title": "ICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history, mayor says",
+  "article_content": "ICE agents' deployment during TSA agent shortage unprecedented in Atlanta airport's history, mayor says\nMayor Andre Dickens says that his administration is actively monitoring the situation at Hartsfield-Jackson Atlanta International Airport after federal personnel were deployed to the world's busiest airport to support with security operations.\nIn an update to local and federal officials obtained by CBS Atlanta, Dickens called the involvement of U.S. Immigration and Customs Enforcement and Homeland Security Investigations \"unprecedented in the 100-year history of the airport.\"\nOn Monday, the federal agents joined Transportation Security Administration officers in Atlanta's security lines after thousands of unpaid TSA workers called out sick, creating major delays at checkpoints. According to the Department of Homeland Security, more than 41% of the Atlanta airport's TSA agents called out on Sunday alone.\nIn his update, Dickens said that he was informed by federal authorities that the agents will be primarily used for \"line management and crowd control within the domestic terminals.\"\n\"All federal personnel will operate under the direction of TSA for the duration of this assignment,\" Dickens stated. \"At this time, there have been no requests for additional resources or personnel from the Atlanta Police Department, and we do not anticipate any disruption to City operations.\"\nThe Atlanta airport is one of 14 where ICE agents are currently stationed, according to White House border czar Tom Homan.\nThe Atlanta Police Department's airport division will continue to lead law enforcement operations at Hartsfield-Jackson, including traffic management and emergency response.\nDickens asked for the public's patience as officials worked with the federal authorities to ensure that things run smoothly, though he acknowledged that it was \"unclear\" how ICE's presence at the airport would \"improve the passenger experience.\"\n\"My Administration is actively monitoring this situation and remains in communication with airport leadership and federal agencies to ensure transparency and continuity of operations,\" Dickens wrote, promising to provide updates if conditions change.\nTravelers struggling with long lines at the Atlanta airport\nOn Monday, the addition of ICE agents didn't seem to help things move more quickly for frustrated travelers, who told CBS News Atlanta that they were showing up hours early to make their flights.\nMichelle Keller arrived at Hartsfield-Jackson six hours before her flight to Chicago, and said she found herself standing in the line outside the security checkpoint. She had missed her flight the day before after getting to the airport three hours early. This time, she paid extra for TSA PreCheck, but said that it didn't seem to be moving much quicker.\n\"It snakes and snakes and snakes, and then finally goes down this way, and you have to look. It looks like a half a mile that way,\" Keller said, describing the line. \"I know yesterday they didn't even have, like, a distinguisher between pre-check and TSA PreCheck and regular. So today seems to be a little better.\"\nThe airport's website, which usually displays wait times, simply says \"Due to current federal conditions, passengers are advised to allow at least 4 hours or more for domestic and international screenings.\"\nTravelers like Kimmy Umphenour said they were trying to stay positive while waiting in long lines.\n\"I mean, it's good. We've made friends. We're having conversations about all kinds of stuff,\" Umphenour said.\nUmphenour said she had already been in line about an hour when she reached the TSA PreCheck checkpoint for her flight to Milwaukee.\nFor others, the heat inside the airport made the experience even more frustrating.\n\"It's hot. I mean, I'm sweating on my back,\" said traveler Gage Henderson.\nAirport officials said wait times change throughout the day based on passenger volume and cannot always be accurately reflected online. They said passengers should go to the terminal assigned by their airline and check with their carrier before trying to use another checkpoint.\nOfficials also addressed concerns about the heat inside the airport. They said large crowds and the number of doors opening and closing can make it difficult to keep temperatures consistent.\nDespite the delays, some travelers said they are making it through. Keller later reached her gate after waiting in line for more than an hour.\nAirport officials are urging travelers to plan ahead and treat current conditions like peak holiday travel. They recommend checking atl.com, airline updates, and parking availability before heading to the airport."
+}

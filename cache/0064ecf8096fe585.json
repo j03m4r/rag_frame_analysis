@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "This reflects a deep division within American Christianity over immigration enforcement.In sum religious opposition to immigration enforcement has been broad theologically grounded and organizationally significant spanning multiple denominations and faith traditions while a minority of conservative religious leaders have offered support for the administration's policies 223.",
+        "Counterpoint Conservative Religious VoicesNot all faith voices oppose enforcement.",
+        "Juan Pablo Herrera connected protest to following Jesus who consistently challenged the systems of power that harmed people on the margins 2.Rabbi Steven Philp integrated protest into Jewish Shabbat practice framing it as holy action while noting that ancient rabbinic tradition holds that what happens inside a synagogue should both be affected by what's happening in the world outside and be something we carry with us into the world outside 2."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Counterpoint Conservative Religious VoicesNot all faith voices oppose enforcement.",
+        "Prominent evangelical figures including the Rev.",
+        "Abby Holcombe of Urban Village Church stated that the federal government 'terrorizes our neighbors has committed violent acts in other countries and has repeatedly demonstrated a way of ruling that is antithetical to the kingdom of God' 2."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Prominent evangelical figures including the Rev.",
+        "The Rev.",
+        "The Rev."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "Religious leaders and communities across the United States have mounted significant moral opposition to U.S. immigration enforcement policies drawing on theological traditions and faith convictions to challenge what they describe as cruel and unjust practices.",
+        "Counterpoint Conservative Religious VoicesNot all faith voices oppose enforcement.",
+        "This reflects a deep division within American Christianity over immigration enforcement.In sum religious opposition to immigration enforcement has been broad theologically grounded and organizationally significant spanning multiple denominations and faith traditions while a minority of conservative religious leaders have offered support for the administration's policies 223."
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "Counterpoint Conservative Religious VoicesNot all faith voices oppose enforcement.",
+        "He argued that protests can be hopeful and prayerful representing a vision for a different kind of world that God wants for us 2.Chicago native Pope Leo XIV also condemned the nation's treatment of migrants 2.",
+        "Interfaith Voices Across the NationAt No Kings rallies nationwide faith leaders from multiple traditions raised their voices Hindu Hindus for Human Rights Executive Director Sunita Viswanath declared a resounding 'no' to the growing tide of authoritarianism 2."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Religious leaders and faith communities"
+    ],
+    "victim": [
+      "Immigrants and migrants"
+    ],
+    "villian": [
+      "U.S. immigration enforcement (ICE/Homeland Security/Trump administration)"
+    ]
+  },
+  "query": 4
+}

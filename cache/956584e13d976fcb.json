@@ -1,0 +1,47 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Officers have arrested more than 7000 people.But protesters say the task force also has changed daily life in less desirable ways.",
+        "Tolerating this violence was always a choice.Trump credited the task forcea collaboration of more than 30 local state and federal law enforcement agencies and the subject of my recent Mother Jones investigationwith a substantial drop in crime in Memphis over last year.",
+        "Police are riding around with immigration officers who ask people of color for proof of citizenship."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "Officers have arrested more than 7000 people.But protesters say the task force also has changed daily life in less desirable ways.",
+        "Trump says he made Memphis safer.",
+        "There may be zero crime but we also wont be leaving our houses."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "One resident compared the vibe to 1930s Germanyhelicopters circling overhead National Guard patrolling downtown unmarked law enforcement vehicles roaming the streets and immigrant citizens carrying their US passports lest they be detained.Shelby County Mayor Lee Harris a Democrat who opposed the task force speculated that crimewhich had been a problemwas dropping at least in part because people werent venturing out nearly as much.",
+        "I also drove around town and talked to activists business owners cops local politicians teachers volunteers and ordinary people.",
+        "Police are riding around with immigration officers who ask people of color for proof of citizenship."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "Tolerating this violence was always a choice.Trump credited the task forcea collaboration of more than 30 local state and federal law enforcement agencies and the subject of my recent Mother Jones investigationwith a substantial drop in crime in Memphis over last year.",
+        "I know thats a dark scenario but thats kind of where we are.Check out the full investigation here.",
+        "Officers have arrested more than 7000 people.But protesters say the task force also has changed daily life in less desirable ways."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Officers have arrested more than 7000 people.But protesters say the task force also has changed daily life in less desirable ways.",
+        "Tolerating this violence was always a choice.Trump credited the task forcea collaboration of more than 30 local state and federal law enforcement agencies and the subject of my recent Mother Jones investigationwith a substantial drop in crime in Memphis over last year.",
+        "One resident compared the vibe to 1930s Germanyhelicopters circling overhead National Guard patrolling downtown unmarked law enforcement vehicles roaming the streets and immigrant citizens carrying their US passports lest they be detained.Shelby County Mayor Lee Harris a Democrat who opposed the task force speculated that crimewhich had been a problemwas dropping at least in part because people werent venturing out nearly as much."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {},
+  "article_title": "Trump says he made Memphis safer. Locals told me it felt like 1930s Germany or North Korea.",
+  "article_content": "President Donald Trump visited Memphis on Monday to praise a surge in federal law enforcement there, while some locals took to the streets to protest the surge.\n\u201cFor years, our leaders allowed entire cities in America to be destroyed by crime, drugs, and gang violence,\u201d he said during a roundtable discussion about the Memphis Safe Task Force, which launched in September. \u201cTolerating this violence was always a choice.\u201d\nTrump credited the task force\u2014a collaboration of more than 30 local, state, and federal law enforcement agencies, and the subject of my recent Mother Jones investigation\u2014with a substantial drop in crime in Memphis over last year. Officers have arrested more than 7,000 people.\nBut protesters say the task force also has changed daily life in less desirable ways. Police are riding around with immigration officers, who ask people of color for proof of citizenship. The law enforcement presence is so pervasive that immigrants have been sheltering at home, afraid to shop for groceries or bring their kids to school.\nIn November, I saw this firsthand during a visit. I hid in a dark apartment with terrified immigrant parents and their citizen children, who told me they didn\u2019t go outside much anymore because they were scared of police. I also drove around town and talked to activists, business owners, cops, local politicians, teachers, volunteers, and ordinary people. One resident compared the vibe to 1930s Germany\u2014helicopters circling overhead, National Guard patrolling downtown, unmarked law enforcement vehicles roaming the streets, and immigrant citizens carrying their US passports, lest they be detained.\nShelby County Mayor Lee Harris, a Democrat who opposed the task force, speculated that crime\u2014which had been a problem\u2014was dropping at least in part because people weren\u2019t venturing out nearly as much. \u201cOur risk is that [America is] gonna become a Yemen or a North Korea or something else altogether, where there is an armed individual with a semiautomatic weapon and military fatigues on many corners,\u201d he told me. \u201cThere may be zero crime, but we also won\u2019t be leaving our houses. I know that\u2019s a dark scenario, but that\u2019s kind of where we are.\u201d\nCheck out the full investigation here."
+}

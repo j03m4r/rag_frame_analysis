@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "The question of who bears responsibility for the humanitarian consequences of U.S. immigration enforcement including the detention of children and legal residents is contested with blame distributed across multiple actors and levels of government.",
+        "Congressional and Political ResponsibilityDemocrats and Republicans in Congress share responsibility through legislative inaction and political maneuvering.",
+        "In response to the detention of the autistic girl a DHS spokesperson stated bluntly Being in detention is a choice 10."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "The question of who bears responsibility for the humanitarian consequences of U.S. immigration enforcement including the detention of children and legal residents is contested with blame distributed across multiple actors and levels of government.",
+        "Congressional and Political ResponsibilityDemocrats and Republicans in Congress share responsibility through legislative inaction and political maneuvering.",
+        "State and Local GovernmentsSanctuary city policies have also drawn criticism."
+      ],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "In response to the detention of the autistic girl a DHS spokesperson stated bluntly Being in detention is a choice 10.",
+        "The question of who bears responsibility for the humanitarian consequences of U.S. immigration enforcement including the detention of children and legal residents is contested with blame distributed across multiple actors and levels of government.",
+        "Hospitality union Unite Here Local 11 cited the detention of legal permanent residents and citizens as evidence of abhorrent conditions justifying workers' right to refuse assignments near ICE agents 14.In summary responsibility is shared primarily by the Trump administration and ICE for carrying out enforcement operations that have ensnared children and legal residents 610 by Congress for failing to pass oversight legislation 329 and in some cases by local sanctuary policies that critics argue enable dangerous individuals to remain in communities 15."
+      ],
+      "present": false
+    },
+    "morality": {
+      "evidence": [
+        "Religious leaders union officials and civil society groups have widely condemned these practices.",
+        "The question of who bears responsibility for the humanitarian consequences of U.S. immigration enforcement including the detention of children and legal residents is contested with blame distributed across multiple actors and levels of government.",
+        "In response to the detention of the autistic girl a DHS spokesperson stated bluntly Being in detention is a choice 10."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Congressional and Political ResponsibilityDemocrats and Republicans in Congress share responsibility through legislative inaction and political maneuvering.",
+        "The question of who bears responsibility for the humanitarian consequences of U.S. immigration enforcement including the detention of children and legal residents is contested with blame distributed across multiple actors and levels of government.",
+        "State and Local GovernmentsSanctuary city policies have also drawn criticism."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Senate Democrats"
+    ],
+    "victim": [
+      "children and legal residents"
+    ],
+    "villian": [
+      "Trump administration and ICE"
+    ]
+  },
+  "query": 5
+}

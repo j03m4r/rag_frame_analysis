@@ -1,0 +1,48 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Fairfax County says it is not a sanctuary jurisdiction, but top Republicans on the House Judiciary Committee slammed Commonwealth's Attorney Steve Descano and Sheriff Stacey Kincaid for failing to cooperate with ICE on the arrest of illegal migrants.",
+        "The US Department of Homeland Security, which said it lodged an immigration retainer for Jalloh as early as 2020, slammed 'Virginia's sanctuary politicians.'",
+        "DHS called on the new Democratic governor to commit to working with ICE to keep dangerous migrants off the streets."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "That left Jalloh on the streets on Feb. 23, when cops said he repeatedly stabbed 41-year-old mom Stephanie Minter to death at a bus stop on Richmond Highway in Fairfax County.",
+        "'Unfortunately, the defendant in this case also had a history of selecting victims with no fixed address \u2013 some of the most vulnerable members of our community,' Birnbaum said.",
+        "Stephanie Minter, a 41-year-old Virginia mother, was stabbed to death on Feb. 23."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Top Republicans on the House Judiciary Committee slammed Commonwealth's Attorney Steve Descano and Sheriff Stacey Kincaid for failing to cooperate with ICE on the arrest of illegal migrants.",
+        "'We are calling on Virginia Gov. Abigail Spanberger and Virginia's sanctuary politicians to commit to not releasing this murderer and violent career criminal from jail without notifying [Immigration and Customs Enforcement],' DHS Deputy Assistant Secretary Laren Bis said in a statement.",
+        "'Unfortunately, the defendant in this case also had a history of selecting victims with no fixed address \u2013 some of the most vulnerable members of our community,' Birnbaum said."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Department of Homeland Security"
+    ],
+    "victim": [
+      "Stephanie Minter"
+    ],
+    "villian": [
+      "Abdul Jalloh"
+    ]
+  },
+  "article_title": "The pathetic reason illegal migrant who \u2018hacked mom to death\u2019 in lefty DC suburb was free \u2014 despite 30 arrests"
+}

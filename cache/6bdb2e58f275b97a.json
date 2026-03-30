@@ -1,0 +1,56 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Broader Economic Disruption Air Travel and CommerceICE enforcement has also intersected with air travel in economically damaging ways.",
+        "This withdrawal of labor from the economy across housekeeping construction food service and agriculture represents a significant if difficult to quantify economic loss.Local business advocates farmers and labor representatives have all called for a more measured approach to immigration enforcement that distinguishes between agricultural and essential service workers and those posing public safety threats.",
+        "The Climate of Fear and Its Economic CostsPerhaps the most pervasive economic consequence is the climate of fear that enforcement actions create among immigrant workers across industries."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [
+        "The Climate of Fear and Its Economic CostsPerhaps the most pervasive economic consequence is the climate of fear that enforcement actions create among immigrant workers across industries.",
+        " Economic Consequences of ICE Enforcement Actions on U.S. Agriculture and Hospitality IndustriesICE enforcement actions have produced significant and multifaceted economic consequences for agriculture and hospitality industries across the United States disrupting labor forces threatening productivity and creating a climate of fear that affects both workers and employers.",
+        "Broader Economic Disruption Air Travel and CommerceICE enforcement has also intersected with air travel in economically damaging ways."
+      ],
+      "present": true
+    },
+    "human_interest": {
+      "evidence": [
+        "A banquet server with 15 years of experience captured the sentiment of many workers Money is important our jobs are important but our life and our safety is more important 14.The threat extends beyond individual workers.",
+        "The Climate of Fear and Its Economic CostsPerhaps the most pervasive economic consequence is the climate of fear that enforcement actions create among immigrant workers across industries.",
+        "Hospitality IndustryThe hospitality sector faces its own distinct set of economic pressures tied to ICE enforcement."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "The Climate of Fear and Its Economic CostsPerhaps the most pervasive economic consequence is the climate of fear that enforcement actions create among immigrant workers across industries.",
+        "A banquet server with 15 years of experience captured the sentiment of many workers Money is important our jobs are important but our life and our safety is more important 14.The threat extends beyond individual workers.",
+        "Broader Economic Disruption Air Travel and CommerceICE enforcement has also intersected with air travel in economically damaging ways."
+      ],
+      "present": false
+    },
+    "responsibility": {
+      "evidence": [
+        "Broader Economic Disruption Air Travel and CommerceICE enforcement has also intersected with air travel in economically damaging ways.",
+        "A banquet server with 15 years of experience captured the sentiment of many workers Money is important our jobs are important but our life and our safety is more important 14.The threat extends beyond individual workers.",
+        "Advocates have raised concerns about the downstream impact on retail sales such as pumpkin season and farm stands if farms cannot sustain their workforces 12."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Unite Here Local 11"
+    ],
+    "victim": [
+      "immigrant workers"
+    ],
+    "villian": [
+      "ICE"
+    ]
+  },
+  "query": 3
+}

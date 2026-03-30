@@ -1,0 +1,52 @@
+{
+  "generic_framing": {
+    "conflict": {
+      "evidence": [
+        "Some Catholics, notably JD Vance, support the immigration crackdown and have condemned US bishops for not backing the administration's enforcement actions.",
+        "Many were shocked by video that surfaced in early October that showed a Presbyterian pastor hit by a pepper ball in the head while protesting outside an Ice facility in a Chicago suburb.",
+        "The incident involving Rev David Black stoked further drama when the Department of Homeland Security defended the action by calling protesters 'agitators' who blocked an Ice vehicle, impeding operations."
+      ],
+      "present": true
+    },
+    "economic": {
+      "evidence": [],
+      "present": false
+    },
+    "human_interest": {
+      "evidence": [
+        "Catholic parishioners rushed to deliver food boxes to immigrants too terrified to leave their homes in the California city of Coachella after federal immigration agents swept through Latino neighborhoods during the summer.",
+        "'The kids don't want to go to school because they are afraid they'll come home and Mom and Dad won't be there.'",
+        "The deportation crisis has hit immigrants with force, traumatizing children and parents alike all along the heavily Latino US borderlands and beyond."
+      ],
+      "present": true
+    },
+    "morality": {
+      "evidence": [
+        "'Catholic social teaching is on the side of the immigrant,' explained the Rev Raymond Riding, a Catholic missionary in Tucson, Arizona, who has been ministering to relatives of detained immigrants.",
+        "Pope Leo, who was elected in May to succeed Francis, has said immigrants should be treated with dignity and respect and has called mass deportations 'a major crisis'.",
+        "'What has happened to our heart?' he asked. 'Today in the country and the world, I wonder whether we can even recognize our country, because we were founded on these principles and our Lady of Liberty has stood where so many of our immigrants have entered as a sign of hope, as a place of justice.'"
+      ],
+      "present": true
+    },
+    "responsibility": {
+      "evidence": [
+        "US cities along the south-west border offer lessons to cities like Chicago, Portland and New York City on how to respond to the immigration dragnet by supporting immigrant families and protecting against what Pope Leo XIV, who was born in Chicago, called 'inhuman' treatment of immigrants.",
+        "Days after meeting with the pope, Seitz stood before union leaders, immigrant advocates, aid groups, political leaders and students and called on churches and non-profit groups along the border to stand up for poor people and immigrants.",
+        "Across the country, faith groups have formed a defense team for immigrants, at a time of rising pressures to remove them, and have essentially created an underground railroad of help to uphold church teachings."
+      ],
+      "present": true
+    }
+  },
+  "narrative_framing": {
+    "hero": [
+      "Faith groups (nuns, bishops, laity, interfaith volunteers)"
+    ],
+    "victim": [
+      "Immigrants"
+    ],
+    "villian": [
+      "Trump administration (ICE/federal immigration enforcement)"
+    ]
+  },
+  "article_title": "As Trump cracks down, faith groups step up for immigrants: \u2018What has happened to our heart?\u2019"
+}
