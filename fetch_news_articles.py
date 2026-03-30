@@ -2,15 +2,16 @@ import mediacloud.api
 from datetime import date
 import trafilatura
 import json, time
+import matplotlib.pyplot as plt
 from utils import analyze_articles
-from collections import defaultdict
 
 MODEL_TYPE = "finetuned"
 API_KEY = "21f09a90445d444631abdab752a80ce77e781d2f"
 US_NATIONAL_COLLECTION = 34412234
 
+EXCLUDED_KEYWORDS = ["tsa"]
 REQUIRED_KEYWORDS = ["immigration", "immigrant", "migrants", "migration"]
-KEYWORDS = ["trump", "ice", "dhs", "border", "deport", "clergy", "church", "enforcement", "federal", "minnesota", "noem", "illegal", "agents", "administration", "pretti", "renee", "fraud", "economy"]
+OPTIONAL_KEYWORDS = ["trump", "ice", "dhs", "border", "deport", "clergy", "church", "enforcement", "federal", "minnesota", "noem", "illegal", "agents", "administration", "pretti", "renee", "fraud", "economy"]
 QUERY = "(immigration OR immigrant OR migrants OR migration) AND (trump OR ice OR dhs OR border OR deport OR clergy OR church OR enforcement OR federal OR minnesota OR noem OR illegal OR agents OR administration OR pretti OR renee OR fraud OR economy)"
 START_DATE = date(2026, 1, 1)
 END_DATE = date(2026, 3, 25)
@@ -97,9 +98,11 @@ def dedup_articles(articles):
         deduped[title] = article
         
     return deduped.values()
+
 def compute_frame_counts(articles):
     counts = {"Co": 0, "Ec": 0, "Hi": 0, "Mo": 0, "Re": 0}
     for a in articles:
+        print(a)
         g = a["generic_framing"]
         if g["conflict"]["present"]:      counts["Co"] += 1
         if g["economic"]["present"]:      counts["Ec"] += 1
@@ -172,8 +175,29 @@ def greedy_prune(frame_results, target=None):
     
     return articles
 
+def filter_articles_by_keywords(articles, required_keywords, optional_keywords, excluded_keywords, num_optional_keywords_required=1):
+    filtered = []
+    for article in articles:
+        title = article.get("title") or ""
+        text = article.get("text") or ""
+        combined = (title + " " + text).lower()
+        
+        if any(kw in combined for kw in excluded_keywords):
+            continue
+        
+        if not all(kw in combined for kw in required_keywords):
+            continue
+        
+        optional_count = sum(1 for kw in optional_keywords if kw in combined)
+        if optional_count < num_optional_keywords_required:
+            continue
+        
+        filtered.append(article)
+    
+    return filtered
+
 def balance_framing():
-    with open("./over_6_frame_results.json") as f:
+    with open("./final_corpora/post_excluded_tsa/filtered_corporus_frame_results.json") as f:
         frame_results = json.load(f)
 
     print("Before pruning:", compute_frame_counts(frame_results))
@@ -181,17 +205,38 @@ def balance_framing():
     print("After pruning:", compute_frame_counts(pruned))
     print(f"Kept {len(pruned)}/{len(frame_results)} articles")
 
-    with open("pruned_frame_results.json", "w", encoding="utf-8") as f:
+    with open("./final_corpora/post_excluded_tsa/filtered_corporus_frame_results_balanced.json", "w", encoding="utf-8") as f:
         json.dump(pruned, f, ensure_ascii=False, indent=4)
 
 if __name__ == "__main__":
-    with open("./final_corpora/pruned_frame_results.json") as f:
-        pruned_res = json.load(f)
+    with open("final_corpora/deduped_results.json") as f:
+        news_articles = json.load(f)
         
-    final_articles = []
-    for pruned in pruned_res:
-        art = {"title": pruned["article_title"], "content": pruned["article_content"]}
-        final_articles.append(art)
+    filtered = filter_articles_by_keywords(
+        news_articles, 
+        required_keywords=REQUIRED_KEYWORDS, 
+        optional_keywords=OPTIONAL_KEYWORDS, 
+        excluded_keywords=EXCLUDED_KEYWORDS,
+        num_optional_keywords_required=5
+    )
+    print(len(filtered), "articles after keyword filtering")
 
-    with open("final_articles.json", "w", encoding="utf-8") as f:
-        json.dump(final_articles, f, ensure_ascii=False, indent=4)
+    _formatted = []
+    for article in filtered:
+        _formatted.append({
+            "title": article["title"],
+            "url": article["url"],
+            "content": article["text"]
+        })
+    
+    frame_results = analyze_articles(_formatted, MODEL_TYPE, do_narrative=False)
+    frame_counts = compute_frame_counts(frame_results)
+    print(frame_counts)
+
+    with open("./final_corpora/post_excluded_tsa/filtered_corporus.json", "w", encoding="utf-8") as f:
+        json.dump(_formatted, f, ensure_ascii=False, indent=4)
+
+    with open("./final_corpora/post_excluded_tsa/filtered_corporus_frame_results.json", "w", encoding="utf-8") as f:
+        json.dump(frame_results, f, ensure_ascii=False, indent=4)
+
+    balance_framing()
