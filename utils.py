@@ -9,7 +9,7 @@ import numpy as np
 
 # ── Config ────────────────────────────────────────────────────────────────────
 API_URL    = "https://arron-sausagelike-rightwardly.ngrok-free.dev/predict"
-API_KEY    = "csci8980"
+API_KEY    = ""
 CACHE_DIR  = "cache"
 
 # ── Constants ─────────────────────────────────────────────────────────────────
