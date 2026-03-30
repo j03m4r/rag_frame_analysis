@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from utils import analyze_articles
 
 MODEL_TYPE = "finetuned"
-API_KEY = "21f09a90445d444631abdab752a80ce77e781d2f"
+API_KEY = ""
 US_NATIONAL_COLLECTION = 34412234
 
 EXCLUDED_KEYWORDS = ["tsa"]
